@@ -76,7 +76,7 @@ Awesome LDraw software, file format &amp; parts library (3D models of LEGO® and
 - ***m-Bitbeam***
   - Homepage: http://www.tfsoft.cz/m-bitbeam
   - Package(s): [m-Bitbeam_Parts_for_LDraw-master.zip](https://github.com/e-Mole/m-Bitbeam_Parts_for_LDraw/archive/master.zip)
-  - Repository/Tracker: https://github.com/e-Mole/m-Bitbeam_Parts_for_LDraw
+  - Repository/Tracker: https://github.com/e-Mole/m-Bitbeam_Parts_for_LDraw ([ondratu's fork](https://github.com/ondratu/m-bitbeam))
   - License: `CC BY-NC-SA 4.0`
 
 - ***ME Models Track*** — LDraw parts library which includes the ME Models R56, R72, R88, and R104 curves as well as the half and double length straights.
@@ -95,7 +95,7 @@ Awesome LDraw software, file format &amp; parts library (3D models of LEGO® and
   - Homepage: http://www.fxbricks.com/resources/page
   - Package(s): [pfx-ldraw-models-master.zip](http://github.com/fx-bricks/pfx-ldraw-models/archive/master.zip), ([PFxLDrawRevA.zip](http://www.fxbricks.com/downloads/PFxLDrawRevA.zip))
   - Repository/Tracker: http://github.com/fx-bricks/pfx-ldraw-models
-  - License: `BSD-2-Clause`
+  - License: `BSD 2-Clause`
 
 - ***Tente*** — Jasolo's *TENTE®* parts.
   - Homepage: https://tente3d.fandom.com/es/wiki/Tente_3D_Wiki ([EN](https://3dtente.fandom.com/wiki/Main_Page))
@@ -138,11 +138,23 @@ There are many bricks models created in different file formats.
   - Repository/Tracker: https://github.com/bitbeam/bitbeam
   - License:
 
+- ***Bitbeam-lib*** — *OpenSCAD* library for easy create *Bitbeam*, *m-Bitbeam*, *LEGO® Technic* or *Clementoni®* compatible parts.
+  - Homepage: http://bitbeam.org
+  - Package(s): [bitbeam-lib-master.zip](https://github.com/ondratu/bitbeam-lib/archive/master.zip)
+  - Repository/Tracker: https://github.com/ondratu/bitbeam-lib
+  - License: `BSD 3-Clause`
+
 - ***m-Bitbeam*** — parts in STL format for 3D print.
-  - Homepage: http://www.tfsoft.cz/m-bitbeam
+  - Homepage: http://www.tfsoft.cz/m-bitbeam (+ [wiki](https://github.com/bitbeam/bitbeam/wiki/The-Bitbeam-project))
   - Package(s): [m-Bitbeam_Parts_for_3Dprint-master.zip](https://github.com/e-Mole/m-Bitbeam_Parts_for_3Dprint/archive/master.zip)
-  - Repository/Tracker: https://github.com/e-Mole/m-Bitbeam_Parts_for_3Dprint
+  - Repository/Tracker: https://github.com/e-Mole/m-Bitbeam_Parts_for_3Dprint ([ondratu's fork](https://github.com/ondratu/m-bitbeam))
   - License: `CC-BY-NC-SA 4.0`
+
+- ***LEGO.scad*** — *OpenSCAD* *LEGO®*-compatible brick generator.
+  - Homepage: http://www.chrisfinke.com/2015/01/27/3d-printed-lego-compatible-bricks/
+  - Packages: [LEGO.scad-master.zip](http://github.com/cfinke/LEGO.scad/archive/master.zip)
+  - Repository/Tracker: http://github.com/cfinke/LEGO.scad
+  - License: `MIT`
 
 - ***openBrick*** — open-source library of 3D printing snap-together toy building blocks written in *OpenSCAD*.
   - Homepage:
@@ -162,12 +174,6 @@ There are many bricks models created in different file formats.
   - Repository/Tracker: https://github.com/LEGO-compatible-gadgets/PELA-parametric-blocks
   - License: `CC BY-SA 4.0`
 
-- ***LEGO.scad*** — *OpenSCAD* *LEGO®*-compatible brick generator.
-  - Homepage: http://www.chrisfinke.com/2015/01/27/3d-printed-lego-compatible-bricks/
-  - Packages: [LEGO.scad-master.zip](http://github.com/cfinke/LEGO.scad/archive/master.zip)
-  - Repository/Tracker: http://github.com/cfinke/LEGO.scad
-  - License: `MIT`
-
 ## Tools
 
 ### LDraw Software
@@ -185,14 +191,24 @@ For beginners recommended tools are:
   - License: `GPL 2.0`
 
 - ***MLCad.ini*** — parts list for *MLCad* and *LeoCAD* minifigure generator.
-  - Homepage: http://www.holly-wood.it/mlcad/mlcad_ini-en.html
+  - Homepage: http://www.holly-wood.it/mlcad/mlcad_ini-en.html (+ [article](http://www.holly-wood.it/mlcad/customizing-en.html))
   - Sources: [MLCad_ini_2018-02.zip](http://www.holly-wood.it/files/mlcad/MLCad_ini_2018-02.zip)
   - License:
+
+- ***LDView*** — *Travis Cobb*'s real-time 3D viewer for displaying *LDraw models*.
+  - Homepage: https://tcobbs.github.io/ldview/
+  - Sources: https://github.com/tcobbs/ldview
+  - License: `GPL 2.0`
 
 - ***Lpub3D*** — an *LDraw™* editor for *LEGO®* style digital building instructions. 
   - Homepage: https://trevorsandy.github.io/lpub3d/
   - Sources: https://github.com/trevorsandy/lpub3d
   - License: `GPL 2.0`
+
+- ***L2CU*** — LDraw Linux Command line Utilities.
+  - Homepage: https://trevorsandy.github.io/lpub3d/
+  - Sources: https://github.com/nathaneltitane/ldraw/
+  - License:
 
 > NOTE: *LeoCAD* and *Lpub3D* tools could use *LGEO* parts for render *LDraw models* using *PovRay* render engine.
 
@@ -200,18 +216,23 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
 
 - ***LDDesignPad*** — powerful text editor for editing *LDraw files*.
   - Homepage: http://lddp.sourceforge.net
-  - Sources: http://sourceforge.net/projects/lddp
-  - License:
+  - Sources: http://sourceforge.net/projects/lddp ([GitHub mirror](https://github.com/billthefish/LDrawDesignPad)
+  - License: `GPL 2.0`
 
 - ***LDBoxer*** — utility to help you replace parts with no visible studs or tubes with boxes.
   - Homepage:
   - Sources: http://github.com/Jeremy1980/LDBoxer
   - License: `GPL 3.0`
 
-- ***L3P*** — command-line tool used for converting LDraw models into *POV-Ray*-compatible files for rendering.
+- ***L3P*** — command-line tool used for converting *LDraw models* into *POV-Ray*-compatible files for rendering.
   - Homepage: http://hassings.dk/l3/l3p.html
   - Sources: http://hassings.dk/l3/download.html
   - License:
+
+- ***stl2dat-cp*** — cross platform *STL (Mesh)* to *DAT (LDraw part)* converter, forked from *stl2dat*.
+  - Homepage: http://marc.klein.free.fr/lego/stl2dat/stl2dat.html
+  - Sources: https://github.com/ondratu/stl2dat-cp (original stl2dat](https://sourceforge.net/projects/stl2dat/))
+  - License: `CC BY-SA 3.0`
 
 ### Other Software
 
@@ -229,9 +250,9 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
 
 - ***OpenSCAD*** — the programmers solid 3D CAD modeller.
   - Homepage: http://www.openscad.org
-  - Sources:
-  - License:
-  - Addons:
+  - Sources: https://github.com/openscad/openscad
+  - License: `GPL 2.0`
+  - Addons: ***Bitbeam*** (see above), ***LEGO.scad*** (see above), ***openBrick*** (see above), ***PELA Blocks*** (see above),
 
 - ***SolveSpace*** — simple to use parametric 2D/3D CAD & CAE.
   - Homepage: http://solvespace.com
