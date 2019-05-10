@@ -19,7 +19,14 @@ Awesome LDraw software, file format &amp; parts library (3D models of LEGO® and
 
 ## LDraw
 
-*LDraw* — software, file format & parts library.
+[![LDraw.org](https://forums.ldraw.org/images/mainsite_logo.png)](http://www.ldraw.org)
+
+*LDraw* — software, file format, parts library & model repository.
+
+- http://www.ldraw.org/
+- http://wiki.ldraw.org/wiki/LDraw.org_Wiki
+- http://forums.ldraw.org/
+- http://omr.ldraw.org/
 
 ### LDraw File Format Specification
 
@@ -235,6 +242,11 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - Sources: https://github.com/ondratu/stl2dat-cp (original stl2dat](https://sourceforge.net/projects/stl2dat/))
   - License: `CC BY-SA 3.0`
 
+- ***txt2dat*** — tool for creating text-based patterns for *LDraw parts*.
+  - Homepage: http://wiki.ldraw.org/wiki/txt2dat (+ [discussion](https://forums.ldraw.org/thread-23185.html))
+  - Sources:
+  - License: `GPL 2.0`
+
 ### Other Software
 
 - ***POV-Ray*** — render engine useful for create realistic images from 3D models.
@@ -249,7 +261,13 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - License: `GPL 3.0`
   - Addons: [*ImportLDraw*](http://github.com/TobyLobster/ImportLDraw) ; [*LDR-Importer*](http://github.com/le717/LDR-Importer)
 
-- ***OpenSCAD*** — the programmers solid 3D CAD modeller.
+- ***Unity*** —
+  - Homepage:
+  - Sources:
+  - License:
+  - Addons: [*LDraw_Importer_Unity*](http://github.com/Nox7atra/LDraw_Importer_Unity)
+
+- ***OpenSCAD*** — programmers solid 3D CAD modeller.
   - Homepage: http://www.openscad.org
   - Sources: https://github.com/openscad/openscad
   - License: `GPL 2.0`
@@ -267,6 +285,7 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - http://www.ldraw.org/article/58.html#rendering
   - http://www.ldraw.org/article/58.html#building_instuctions
   - http://www.ldraw.org/article/58.html#parts_authoring
+- https://wiki.ldraw.org/wiki/Tutorials
 
 ## Project «Datsville»
 
