@@ -30,6 +30,7 @@
 
 ## Colours
 
+- http://www.ldraw.org/article/547.html
 - http://www.mecabricks.com/docs/colour_chart.pdf
 
 ## Bricks and Blocks
