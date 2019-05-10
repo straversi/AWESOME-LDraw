@@ -75,7 +75,7 @@ Awesome LDraw software, file format &amp; parts library (3D models of LEGO® and
   - License:
 
 - ***Modulex***
-  - Homepage:
+  - Homepage: http://www.chris-w-dee.co.uk/Modulex/ (+ [article1](https://www.newelementary.com/2017/11/old-bricks-what-are-modulex-lego.html), [article2](https://www.newelementary.com/2019/05/colours-used-lego-fabuland-theme.html))
   - Package(s): [modulex.zip](http://www.chris-w-dee.co.uk/Modulex/modulex.zip)
   - Repository/Tracker:
   - License:
