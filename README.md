@@ -56,6 +56,11 @@ Awesome LDraw software, file format &amp; parts library (3D models of LEGO® and
   - Repository/Tracker:
   - License:
 
+- ***Hirst Arts Castlemolds***
+  - Package(s): [p.zip](https://www.dungeoncrawlers.com/CastleMoldsCad/assets/parts/p.zip) + [parts.zip](https://www.dungeoncrawlers.com/CastleMoldsCad/assets/parts/parts.zip)
+  - Repository/Tracker: https://www.dungeoncrawlers.com/CastleMoldsCad/parts.php
+  - License:
+
 - ***Holly-Wood***
   - Homepage: http://www.holly-wood.it/ldraw-en.html
   - Package(s): (many)
@@ -69,10 +74,10 @@ Awesome LDraw software, file format &amp; parts library (3D models of LEGO® and
   - License: `BSD-2-Clause`
 
 - ***m-Bitbeam***
-  - Homepage: 
-  - Package(s): [m-Bitbeam_Parts_for_LDraw-master.zip]()
-  - Repository/Tracker: m-Bitbeam_Parts_for_LDraw
-  - License:
+  - Homepage: http://www.tfsoft.cz/m-bitbeam
+  - Package(s): [m-Bitbeam_Parts_for_LDraw-master.zip](https://github.com/e-Mole/m-Bitbeam_Parts_for_LDraw/archive/master.zip)
+  - Repository/Tracker: https://github.com/e-Mole/m-Bitbeam_Parts_for_LDraw
+  - License: `CC-BY-NC-SA 4.0`
 
 - ***Modulex***
   - Homepage: http://www.chris-w-dee.co.uk/Modulex/ ([discussion](https://forums.ldraw.org/thread-5616.html) + [article1](https://www.newelementary.com/2017/11/old-bricks-what-are-modulex-lego.html), [article2](http://www.newelementary.com/2018/11/old-elementary-modulex-integration_15.html), [article3](http://www.newelementary.com/2018/11/how-to-connect-modulex-with-lego.html), [article4](https://www.newelementary.com/2019/05/colours-used-lego-fabuland-theme.html))
@@ -86,15 +91,21 @@ Awesome LDraw software, file format &amp; parts library (3D models of LEGO® and
   - Repository/Tracker: http://github.com/fx-bricks/pfx-ldraw-models
   - License: `BSD-2-Clause`
 
-- ***Tente*** — Jasolo's *TENTE®* parts
+- ***Tente Ultima*** — Jasolo's *TENTE®* parts
   - Homepage:
   - Package(s): [LDrawTente_Ultima.zip](https://www.dropbox.com/s/irba95qphdxtiq7/LDrawTente_Ultima.zip?dl=1)
-  - Repository/Tracker:
+  - Repository/Tracker: https://github.com/cpcbegin/tentemodels
   - License:
 
 - ***Vex IQ*** — *VEX IQ®* parts
   - Homepage: http://philohome.com/vexldraw/vexldraw.htm (+ [discussion](http://www.vexforum.com/t/ldraw-parts-for-vex-iq/1106))
   - Package(s): [VexLdrawParts.zip]()
+  - Repository/Tracker:
+  - License:
+
+- ***Virtual Minibrix***
+  - Homepage: http://www.virtual.minibrix.com/index.html
+  - Package(s): [VirtualMinibrix_v4-3.exe](http://www.virtual.minibrix.com/Download/VirtualMinibrix_v4-3.exe)
   - Repository/Tracker:
   - License:
 
@@ -115,6 +126,12 @@ There are many bricks models created in different file formats.
   - Package(s):
   - Repository/Tracker: https://github.com/bitbeam/bitbeam
   - License:
+
+- ***m-Bitbeam*** — parts in STL format for 3D print.
+  - Homepage: http://www.tfsoft.cz/m-bitbeam
+  - Package(s): [m-Bitbeam_Parts_for_3Dprint-master.zip](https://github.com/e-Mole/m-Bitbeam_Parts_for_3Dprint/archive/master.zip)
+  - Repository/Tracker: https://github.com/e-Mole/m-Bitbeam_Parts_for_3Dprint
+  - License: `CC-BY-NC-SA 4.0`
 
 - ***openBrick*** — open-source library of 3D printing snap-together toy building blocks written in *OpenSCAD*.
   - Homepage:
