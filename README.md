@@ -6,7 +6,7 @@ Awesome LDraw software, file format &amp; parts library (3D models of LEGO® and
 > - [LDraw](#ldraw)
 >   - [File Format Specification](#ldraw-file-format-specification)
 >   - [Colours](#colours)
-> - [Bricks](#bricks)
+> - [Bricks and Blocks](#bricks-and-blocks)
 >   - [LDraw Official & Unofficial Parts](#ldraw-official-and-unofficial-parts)
 >   - [LDraw Other Parts](#ldraw-other-parts)
 >   - [Non-LDraw Parts](#non-ldraw-parts)
@@ -26,7 +26,7 @@ Awesome LDraw software, file format &amp; parts library (3D models of LEGO® and
 
 - http://www.mecabricks.com/docs/colour_chart.pdf
 
-## Bricks
+## Bricks and Blocks
 
 ### LDraw Official and Unofficial Parts
 
@@ -122,7 +122,7 @@ There are many bricks models created in different file formats.
 > NOTE: Some of Non-LDraw parts could be converted to LDraw formats using different tools or could be useful for LDraw-tools.
 
 - ***LGEO*** — fan created collection of *LEGO®* Geometrical Equivalent Objects (parts) to be used with *POV-Ray*.
-  - Homepage: http://www.digitalbricks.org/lgeo.html
+  - Homepage: http://www.digitalbricks.org/lgeo.html (+ [discussion](https://forums.ldraw.org/thread-21748.html))
   - Package(s): [lgeo-master.zip](https://github.com/jncraton/lgeo/archive/master.zip)
   - Repository/Tracker: https://github.com/jncraton/lgeo
   - License:
@@ -206,7 +206,7 @@ For beginners recommended tools are:
   - License: `GPL 2.0`
 
 - ***L2CU*** — LDraw Linux Command line Utilities.
-  - Homepage: https://trevorsandy.github.io/lpub3d/
+  - Homepage: https://legolinux.com/ldraw-on-linux/
   - Sources: https://github.com/nathaneltitane/ldraw/
   - License:
 
@@ -238,21 +238,21 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
 
 - ***POV-Ray*** — render engine useful for create realistic images from 3D models.
   - Homepage: http://www.povray.org
-  - Sources:
-  - License:
+  - Sources: https://github.com/POV-Ray/povray
+  - License: `AGPL 3.0`
   - Addons: ***LGEO*** (see above), ***Anton Raves' Library*** (see above), [*LightsysVI*](http://www.ignorancia.org/en/index.php?page=Lightsys) (`lightsys4c.zip`)
 
-- ***Blender*** — 3D polygonal editor & render engine (+ addons & plugins).
+- ***Blender*** — 3D polygonal editor & render engine.
   - Homepage: http://blender.org
-  - Sources:
-  - License: `GNU GPLv3`
+  - Sources: https://git.blender.org
+  - License: `GPL 3.0`
   - Addons: [*ImportLDraw*](http://github.com/TobyLobster/ImportLDraw) ; [*LDR-Importer*](http://github.com/le717/LDR-Importer)
 
 - ***OpenSCAD*** — the programmers solid 3D CAD modeller.
   - Homepage: http://www.openscad.org
   - Sources: https://github.com/openscad/openscad
   - License: `GPL 2.0`
-  - Addons: ***Bitbeam*** (see above), ***LEGO.scad*** (see above), ***openBrick*** (see above), ***PELA Blocks*** (see above),
+  - Addons: ***Bitbeam*** (see above), ***Bitbeam-lib*** (see above), ***LEGO.scad*** (see above), ***openBrick*** (see above), ***PELA Blocks*** (see above),
 
 - ***SolveSpace*** — simple to use parametric 2D/3D CAD & CAE.
   - Homepage: http://solvespace.com
@@ -261,14 +261,14 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
 
 ## Project «Datsville»
 
-***Datsville*** — is *LEGO®*-inspired city started in 1999 by users of *«LUGNET»* using *LDraw* parts and tools. The goal of this project is to re-license models using modern, open license, as well as actively manage old and new model submissions.
+***«Datsville»*** — is *LEGO®*-inspired city started in 1999 by users of *«LUGNET»* using *LDraw* parts and tools. The goal of this project is to re-license models using modern, open license, as well as actively manage old and new model submissions.
 
 - Homepage: http://www.lugnet.com/cad/datsville/
 - Package(s):
 - Repository/Tracker: https://sourceforge.net/projects/datsville
 - License: `CC BY-SA 3.0` (for content) ; `LGPL 2.0`(for code)
 
-*Datsville* discussions & addons:
+*«Datsville»* discussions & addons:
 
 - http://www.eurobricks.com/forum/index.php?/forums/topic/60031-datsville-community-ldraw-project/
 - http://forums.ldraw.org/thread-11441.html
@@ -314,4 +314,4 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
 
 > **Fair Play**
 >
-> LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this software.
+> LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site & software.
