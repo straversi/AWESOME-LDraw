@@ -13,6 +13,7 @@ Awesome LDraw software, file format &amp; parts library (3D models of LEGO® and
 > - [Tools](#tools)
 >   - [LDraw Software](#ldraw-software)
 >   - [Other Software](#other-software)
+> - [Tutorials](#tutorials)
 > - [Project «Datsville»](#project-datsville)
 > - [REFERENCES](#references)
 
