@@ -259,6 +259,14 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - Sources: http://github.com/solvespace/solvespace
   - License: `GPL 3.0`
 
+## Tutorials
+
+- http://www.ldraw.org/article/58.html
+  - http://www.ldraw.org/article/58.html#modeling
+  - http://www.ldraw.org/article/58.html#rendering
+  - http://www.ldraw.org/article/58.html#building_instuctions
+  - http://www.ldraw.org/article/58.html#parts_authoring
+
 ## Project «Datsville»
 
 ***«Datsville»*** — is *LEGO®*-inspired city started in 1999 by users of *«LUGNET»* using *LDraw* parts and tools. The goal of this project is to re-license models using modern, open license, as well as actively manage old and new model submissions.
