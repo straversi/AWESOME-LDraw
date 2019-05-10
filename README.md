@@ -1,11 +1,18 @@
 # AWESOME-LDraw
-Awesome LDraw software, file format &amp; parts library (3D models of LEGO® and LEGO-compatible bricks)
+
+*LDraw* — awesome software, file format, parts library and model repository (3D models of LEGO® and LEGO-compatible bricks)
+
+- http://www.ldraw.org/
+- http://wiki.ldraw.org/wiki/LDraw.org_Wiki
+- http://forums.ldraw.org/
+- http://omr.ldraw.org/
+
+[![LDraw.org](https://forums.ldraw.org/images/mainsite_logo.png)](http://www.ldraw.org)
 
 > **TABLE OF CONTENTS**
 > 
-> - [LDraw](#ldraw)
->   - [File Format Specification](#ldraw-file-format-specification)
->   - [Colours](#colours)
+> - [File Format Specification](#file-format-specification)
+> - [Colours](#colours)
 > - [Bricks and Blocks](#bricks-and-blocks)
 >   - [LDraw Official & Unofficial Parts](#ldraw-official-and-unofficial-parts)
 >   - [LDraw Other Parts](#ldraw-other-parts)
@@ -17,20 +24,9 @@ Awesome LDraw software, file format &amp; parts library (3D models of LEGO® and
 > - [Project «Datsville»](#project-datsville)
 > - [REFERENCES](#references)
 
-## LDraw
+## File Format Specification
 
-[![LDraw.org](https://forums.ldraw.org/images/mainsite_logo.png)](http://www.ldraw.org)
-
-*LDraw* — software, file format, parts library & model repository.
-
-- http://www.ldraw.org/
-- http://wiki.ldraw.org/wiki/LDraw.org_Wiki
-- http://forums.ldraw.org/
-- http://omr.ldraw.org/
-
-### LDraw File Format Specification
-
-### Colours
+## Colours
 
 - http://www.mecabricks.com/docs/colour_chart.pdf
 
