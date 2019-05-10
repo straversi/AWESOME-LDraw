@@ -286,6 +286,7 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - http://www.ldraw.org/article/58.html#building_instuctions
   - http://www.ldraw.org/article/58.html#parts_authoring
 - https://wiki.ldraw.org/wiki/Tutorials
+- http://www.ldraw.org/omr_compliance
 
 ## Project «Datsville»
 
