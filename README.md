@@ -26,6 +26,8 @@
 
 ## File Format Specification
 
+- https://wiki.ldraw.org/wiki/Category:LDraw_Files_Syntax
+
 ## Colours
 
 - http://www.mecabricks.com/docs/colour_chart.pdf
@@ -304,7 +306,9 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
 - http://forums.ldraw.org/thread-11441.html
 - http://lego.sparre-andersen.dk/Byggevejledninger/
 
-## REFERENCES
+## REFERENCE
+
+> NOTE: Reference links unsorted! Some links could be broken!
 
 - http://www.ldraw.org
   - http://www.ldraw.org/parts/other-parts-libraries.html
