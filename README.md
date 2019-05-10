@@ -31,15 +31,15 @@ Awesome LDraw software, file format &amp; parts library (3D models of LEGO® and
 ### LDraw Official and Unofficial Parts
 
 - ***LDraw Official*** — *LEGO®* parts maintained by [LDraw.org](http://www.ldraw.org) (latest stable release).
-  - Homepage:
+  - Homepage: http://www.ldraw.org/article/13.html
   - Package(s): [complete.zip](http://www.ldraw.org/library/updates/complete.zip)
-  - Repository/Tracker:
+  - Repository/Tracker: http://www.ldraw.org/library/tracker/
   - License: `CCAL 2.0`
 
 - ***LDraw Unofficial*** — unfinished (work-in-progress) *LEGO®* parts and *LEGO®*-compatible parts submitted by users to [LDraw.org](http://www.ldraw.org) (regular updated; EXPERIMENTAL!).
-  - Homepage:
+  - Homepage: http://www.ldraw.org/article/14.html
   - Package(s): [ldrawunf.zip](http://www.ldraw.org/library/unofficial/ldrawunf.zip)
-  - Repository/Tracker: 
+  - Repository/Tracker: http://www.ldraw.org/library/tracker/
   - License: `CCAL 2.0`
 
 ### LDraw Other Parts
@@ -69,7 +69,7 @@ Awesome LDraw software, file format &amp; parts library (3D models of LEGO® and
 
 - ***L-Gauge***
   - Homepage: http://l-gauge.org/wiki/index.php/CAD_Tools (+ [post on flickr](http://www.flickr.com/photos/michaelgale/36767493863))
-  - Package(s): [BricktracksCurvesRev1.0.zip](http://l-gauge.org)
+  - Package(s): [BricktracksCurvesRev1.0.zip](http://l-gauge.org/downloads/BricktracksCurvesRev1.0.zip)
   - Repository/Tracker: https://github.com/l-gauge/ldraw-lib
   - License: `BSD-2-Clause`
 
@@ -77,36 +77,42 @@ Awesome LDraw software, file format &amp; parts library (3D models of LEGO® and
   - Homepage: http://www.tfsoft.cz/m-bitbeam
   - Package(s): [m-Bitbeam_Parts_for_LDraw-master.zip](https://github.com/e-Mole/m-Bitbeam_Parts_for_LDraw/archive/master.zip)
   - Repository/Tracker: https://github.com/e-Mole/m-Bitbeam_Parts_for_LDraw
-  - License: `CC-BY-NC-SA 4.0`
+  - License: `CC BY-NC-SA 4.0`
 
-- ***Modulex***
-  - Homepage: http://www.chris-w-dee.co.uk/Modulex/ ([discussion](https://forums.ldraw.org/thread-5616.html) + [article1](https://www.newelementary.com/2017/11/old-bricks-what-are-modulex-lego.html), [article2](http://www.newelementary.com/2018/11/old-elementary-modulex-integration_15.html), [article3](http://www.newelementary.com/2018/11/how-to-connect-modulex-with-lego.html), [article4](https://www.newelementary.com/2019/05/colours-used-lego-fabuland-theme.html))
+- ***ME Models Track*** — LDraw parts library which includes the ME Models R56, R72, R88, and R104 curves as well as the half and double length straights.
+  - Homepage: http://l-gauge.org/wiki/index.php/CAD_Tools
+  - Package(s): [ldraw-parts-master.zip](https://github.com/Duq42/ldraw-parts/archive/master.zip) ([archived on L-Gauge](http://l-gauge.org/downloads/ldraw-parts-master.zip))
+  - Repository/Tracker: https://github.com/Duq42/ldraw-parts
+  - License:
+
+- ***Modulex*** — *Modulex®* parts.
+  - Homepage: http://www.chris-w-dee.co.uk/Modulex/ (+ [discussion](https://forums.ldraw.org/thread-5616.html), [article1](https://www.newelementary.com/2017/11/old-bricks-what-are-modulex-lego.html), [article2](http://www.newelementary.com/2018/11/old-elementary-modulex-integration_15.html), [article3](http://www.newelementary.com/2018/11/how-to-connect-modulex-with-lego.html), [article4](https://www.newelementary.com/2019/05/colours-used-lego-fabuland-theme.html))
   - Package(s): [modulex.zip](http://www.chris-w-dee.co.uk/Modulex/modulex.zip)
   - Repository/Tracker:
   - License:
 
 - ***PFx*** — LDraw 3D models of the *PFx Brick*, speakers, and sub-aasembles.
   - Homepage: http://www.fxbricks.com/resources/page
-  - Package(s): [pfx-ldraw-models-master.zip]()
+  - Package(s): [pfx-ldraw-models-master.zip](http://github.com/fx-bricks/pfx-ldraw-models/archive/master.zip), ([PFxLDrawRevA.zip](http://www.fxbricks.com/downloads/PFxLDrawRevA.zip))
   - Repository/Tracker: http://github.com/fx-bricks/pfx-ldraw-models
   - License: `BSD-2-Clause`
 
-- ***Tente Ultima*** — Jasolo's *TENTE®* parts
-  - Homepage:
+- ***Tente*** — Jasolo's *TENTE®* parts.
+  - Homepage: https://tente3d.fandom.com/es/wiki/Tente_3D_Wiki ([EN](https://3dtente.fandom.com/wiki/Main_Page))
   - Package(s): [LDrawTente_Ultima.zip](https://www.dropbox.com/s/irba95qphdxtiq7/LDrawTente_Ultima.zip?dl=1)
   - Repository/Tracker: https://github.com/cpcbegin/tentemodels
-  - License:
+  - License: `GPL 3.0`
 
-- ***Vex IQ*** — *VEX IQ®* parts
+- ***Vex IQ*** — *VEX IQ®* parts.
   - Homepage: http://philohome.com/vexldraw/vexldraw.htm (+ [discussion](http://www.vexforum.com/t/ldraw-parts-for-vex-iq/1106))
-  - Package(s): [VexLdrawParts.zip]()
-  - Repository/Tracker:
+  - Package(s): [VexLdrawParts.zip](http://philohome.com/vexldraw/VexLdrawParts.zip)
+  - Repository/Tracker: http://philohome.com/vexldraw/partslist/parts.html
   - License:
 
-- ***Virtual Minibrix***
-  - Homepage: http://www.virtual.minibrix.com/index.html
+- ***Virtual Minibrix*** — *Minibrix* parts.
+  - Homepage: http://www.virtual.minibrix.com
   - Package(s): [VirtualMinibrix_v4-3.exe](http://www.virtual.minibrix.com/Download/VirtualMinibrix_v4-3.exe)
-  - Repository/Tracker:
+  - Repository/Tracker: http://www.virtual.minibrix.com/news.html
   - License:
 
 ### Non-LDraw Parts
@@ -117,13 +123,13 @@ There are many bricks models created in different file formats.
 
 - ***LGEO*** — fan created collection of *LEGO®* Geometrical Equivalent Objects (parts) to be used with *POV-Ray*.
   - Homepage: http://www.digitalbricks.org/lgeo.html
-  - Package(s):
+  - Package(s): [lgeo-master.zip](https://github.com/jncraton/lgeo/archive/master.zip)
   - Repository/Tracker: https://github.com/jncraton/lgeo
   - License:
 
 - ***Bitbeam*** — *LEGO Technic*-compatible system for bulding robots and other contraptions.
   - Homepage: http://bitbeam.org
-  - Package(s):
+  - Package(s): [bitbeam-master.zip](https://github.com/bitbeam/bitbeam/archive/master.zip)
   - Repository/Tracker: https://github.com/bitbeam/bitbeam
   - License:
 
@@ -135,25 +141,25 @@ There are many bricks models created in different file formats.
 
 - ***openBrick*** — open-source library of 3D printing snap-together toy building blocks written in *OpenSCAD*.
   - Homepage:
-  - Package(s):
+  - Package(s): [openBrick-master.zip](https://github.com/cwesson/openBrick/archive/master.zip)
   - Repository/Tracker: https://github.com/cwesson/openBrick
-  - License:
+  - License: `CC BY-NC-SA 4.0`
 
 - ***OpenTrack*** — *LEGO®*-compatible train track design with larger radius in *DWG*-format.
-  - Homepage:
-  - Packages:
+  - Homepage: (+ [Android app](https://github.com/jofrfu/OpenTrack-Planner))
+  - Packages: [OpenTrack-master.zip](http://github.com/jofrfu/OpenTrack/archive/master.zip)
   - Repository/Tracker: http://github.com/jofrfu/OpenTrack
-  - License:
+  - License: `CC BY-NC-SA 4.0`
 
-- ***PELA*** —
-  - Homepage:
-  - Packages:
-  - Repository/Tracker: http://github.com/LEGO-compatible-gadgets
-  - License:
+- ***PELA Blocks*** — *LEGO®*-compatible Parametric 3D Printed Blocks and Gadgets.
+  - Homepage: http://pelablocks.org
+  - Packages: [PELA-parametric-blocks-master.zip](https://github.com/LEGO-compatible-gadgets/PELA-parametric-blocks/archive/master.zip)
+  - Repository/Tracker: https://github.com/LEGO-compatible-gadgets/PELA-parametric-blocks
+  - License: `CC BY-SA 4.0`
 
 - ***LEGO.scad*** — *OpenSCAD* *LEGO®*-compatible brick generator.
-  - Homepage:
-  - Packages:
+  - Homepage: http://www.chrisfinke.com/2015/01/27/3d-printed-lego-compatible-bricks/
+  - Packages: [LEGO.scad-master.zip](http://github.com/cfinke/LEGO.scad/archive/master.zip)
   - Repository/Tracker: http://github.com/cfinke/LEGO.scad
   - License: `MIT`
 
@@ -181,7 +187,7 @@ For beginners recommended tools are:
 
 Advanced users would like to use next tools for create own LDraw parts (*authoring*), convert LDraw files, etc.:
 
-- ***LDDraw Design Pad*** — 
+- ***LDraw Design Pad*** — 
   - Homepage: http://lddp.sourceforge.net
   - Sources: http://sourceforge.net/projects/lddp
   - License:
