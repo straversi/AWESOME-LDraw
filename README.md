@@ -127,6 +127,11 @@ There are many bricks models created in different file formats.
   - Repository/Tracker: https://github.com/jncraton/lgeo
   - License:
 
+- ***Anton Raves' Library*** — Lego Include File Library for *POVRay 3.7*.
+  - Homepage: https://www.virtualbricks.nl/ (+ [discussion](https://forums.ldraw.org/thread-23404.html), [article1](https://www.virtualbricks.nl/news.php?item=2015_10_09_How_to_install_POV-Ray_under_macOS_El_Capitan_and_(High)_Sierra), [article2](https://www.virtualbricks.nl/news.php?item=2018_06_05_How_to_install_POV-Ray_3.7_under_Ubuntu_17.10_or_18.04_LTS))
+  - Package(s): [Test_Library_543_v1.zip](https://www.virtualbricks.nl/downloads/Test_Library_543_v1.zip)
+  - Repository/Tracker: https://www.virtualbricks.nl/downloads.php
+
 - ***Bitbeam*** — *LEGO Technic*-compatible system for bulding robots and other contraptions.
   - Homepage: http://bitbeam.org
   - Package(s): [bitbeam-master.zip](https://github.com/bitbeam/bitbeam/archive/master.zip)
@@ -165,11 +170,12 @@ There are many bricks models created in different file formats.
 
 ## Tools
 
-- http://www.ldraw.org
-
 ### LDraw Software
 
 There are official *LDraw* software tools and unofficial *LDraw*-compatible software.
+
+- http://www.ldraw.org/help/getting-started.html
+- http://www.ldraw.org/downloads-2/third-party-software.html
 
 For beginners recommended tools are:
 
@@ -178,16 +184,21 @@ For beginners recommended tools are:
   - Sources: http://github.com/leozide/leocad
   - License: `GPL 2.0`
 
-- ***Lpub3D*** — 
-  - Homepage: http://
-  - Sources: http://github.com/
+- ***MLCad.ini*** — parts list for *MLCad* and *LeoCAD* minifigure generator.
+  - Homepage: http://www.holly-wood.it/mlcad/mlcad_ini-en.html
+  - Sources: [MLCad_ini_2018-02.zip](http://www.holly-wood.it/files/mlcad/MLCad_ini_2018-02.zip)
+  - License:
+
+- ***Lpub3D*** — an *LDraw™* editor for *LEGO®* style digital building instructions. 
+  - Homepage: https://trevorsandy.github.io/lpub3d/
+  - Sources: https://github.com/trevorsandy/lpub3d
   - License: `GPL 2.0`
 
-> NOTE: *LeoCAD* and *Lpub3D* tools could use *LGEO* parts for render *LDraw* models using *PovRay* render engine.
+> NOTE: *LeoCAD* and *Lpub3D* tools could use *LGEO* parts for render *LDraw models* using *PovRay* render engine.
 
-Advanced users would like to use next tools for create own LDraw parts (*authoring*), convert LDraw files, etc.:
+Advanced users would like to use next tools for create own *LDraw parts* (*authoring*), convert *LDraw files*, etc.:
 
-- ***LDraw Design Pad*** — 
+- ***LDDesignPad*** — powerful text editor for editing *LDraw files*.
   - Homepage: http://lddp.sourceforge.net
   - Sources: http://sourceforge.net/projects/lddp
   - License:
@@ -208,7 +219,7 @@ Advanced users would like to use next tools for create own LDraw parts (*authori
   - Homepage: http://www.povray.org
   - Sources:
   - License:
-  - Addons: ***LGEO*** (see above) ; [*LightsysVI*](http://www.ignorancia.org/en/index.php?page=Lightsys) (`lightsys4c.zip`)
+  - Addons: ***LGEO*** (see above), ***Anton Raves' Library*** (see above), [*LightsysVI*](http://www.ignorancia.org/en/index.php?page=Lightsys) (`lightsys4c.zip`)
 
 - ***Blender*** — 3D polygonal editor & render engine (+ addons & plugins).
   - Homepage: http://blender.org
@@ -216,13 +227,13 @@ Advanced users would like to use next tools for create own LDraw parts (*authori
   - License: `GNU GPLv3`
   - Addons: [*ImportLDraw*](http://github.com/TobyLobster/ImportLDraw) ; [*LDR-Importer*](http://github.com/le717/LDR-Importer)
 
-- *OpenSCAD* — the programmers solid 3D CAD modeller.
+- ***OpenSCAD*** — the programmers solid 3D CAD modeller.
   - Homepage: http://www.openscad.org
   - Sources:
   - License:
   - Addons:
 
-- *SolveSpace* — simple to use parametric 2D/3D CAD & CAE.
+- ***SolveSpace*** — simple to use parametric 2D/3D CAD & CAE.
   - Homepage: http://solvespace.com
   - Sources: http://github.com/solvespace/solvespace
   - License: `GPL 3.0`
@@ -275,6 +286,8 @@ Advanced users would like to use next tools for create own LDraw parts (*authori
 - http://sariel.pl/downloads/
 
 - http://www.parlugment.org/resources.php
+
+- https://www.virtualbricks.nl/links.html
 
 ***
 
