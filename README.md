@@ -222,6 +222,11 @@ For beginners recommended tools are:
 
 Advanced users would like to use next tools for create own *LDraw parts* (*authoring*), convert *LDraw files*, etc.:
 
+- ***MPDCenter*** — tool for maintain and check *MPD files* for [*OMR conformity*](http://www.ldraw.org/article/593.html).
+  - Homepage: http://ldraw.heidemann.org/index.php?page=mpdcenter (+ [article](http://www.ldraw.org/omr_compliance))
+  - Sources: https://ldraw.heidemann.org/uploads/mpdcenter/mpdcenter.zip
+  - License:
+
 - ***LDDesignPad*** — powerful text editor for editing *LDraw files*.
   - Homepage: http://lddp.sourceforge.net
   - Sources: http://sourceforge.net/projects/lddp ([GitHub mirror](https://github.com/billthefish/LDrawDesignPad)
