@@ -67,7 +67,7 @@
   - License:
 
 - ***HiTechnic Sensors and Multiplixers***
-  - Homepage: https://modernroboticsinc.com/downloads/?wpdmc=sample-model-building-instructions-and-ldraw-parts
+  - Homepage: http://www.hitechnic.com/sensors
   - Package(s): [885-HTLDrawPack1_1.zip](https://modernroboticsinc.com/download/ldraw-parts-pack-for-hitechnic-sensors-and-multiplexers/?wpdmdl=3411)
   - Repository/Tracker: https://modernroboticsinc.com/downloads/
   - License:
@@ -96,7 +96,7 @@
   - License: `CC BY-NC-SA 4.0`
 
 - ***MATRIX***
-  - Homepage: https://modernroboticsinc.com/downloads/?wpdmc=sample-model-building-instructions-and-ldraw-parts
+  - Homepage: http://www.hitechnic.com/matrix
   - Package(s): [610-MATRIXLDrawParts_2014_02_22.zip](https://modernroboticsinc.com/download/ldraw-matrix-parts-pack/?wpdmdl=3416)
   - Repository/Tracker: https://modernroboticsinc.com/downloads/
   - License:
@@ -120,7 +120,7 @@
   - License: `BSD 2-Clause`
 
 ***Rotacaster wheels***
-  - Homepage: https://modernroboticsinc.com/download/ldraw-parts-pack-for-rotacaster-wheels/
+  - Homepage:
   - Package(s): [726-rotacasterLdraw.zip](https://modernroboticsinc.com/download/ldraw-parts-pack-for-rotacaster-wheels/?wpdmdl=3415)
   - Repository/Tracker: https://modernroboticsinc.com/downloads/?wpdmc=sample-model-building-instructions-and-ldraw-parts
   - License:
@@ -131,9 +131,9 @@
   - Repository/Tracker: https://github.com/cpcbegin/tentemodels
   - License: `GPL 3.0`
 
-- ***Vex IQ*** — *VEX IQ®* parts.
-  - Homepage: http://philohome.com/vexldraw/vexldraw.htm (+ [discussion](http://www.vexforum.com/t/ldraw-parts-for-vex-iq/1106))
-  - Package(s): [VexLdrawParts.zip](http://philohome.com/vexldraw/VexLdrawParts.zip)
+- ***VEX IQ*** — unofficial *VEX IQ®* parts for *SnapCAD*.
+  - Homepage: http://philohome.com/vex.htm (+ [page2](http://philohome.com/vexldraw/vexldraw.htm), [page3](http://philohome.com/snapcadunoff/snapcadpartsunoff.htm), [colours](http://philohome.com/snapcadparts/snapcadcolors.htm), [discussion](http://www.vexforum.com/t/ldraw-parts-for-vex-iq/1106))
+  - Package(s): [VexLdrawParts.zip](http://philohome.com/vexldraw/VexLdrawParts.zip), [snapcadunoff.zip](http://philohome.com/snapcadunoff/snapcadunoff.zip)
   - Repository/Tracker: http://philohome.com/vexldraw/partslist/parts.html
   - License:
 
@@ -178,7 +178,7 @@ There are many bricks models created in different file formats.
   - Repository/Tracker: https://github.com/e-Mole/m-Bitbeam_Parts_for_3Dprint ([ondratu's fork](https://github.com/ondratu/m-bitbeam))
   - License: `CC-BY-NC-SA 4.0`
 
-- ***MRI CAD Files*** — STEP-files of robotix bricks designed by *Modern Robotics Inc*.
+- ***MRI CAD Files*** — robotix bricks designed by *Modern Robotics Inc* in *STEP*-format.
   - Homepage: https://modernroboticsinc.com/downloads/?wpdmc=mri-cad-files
   - Packages: [Modern_Robotics_Sensors_CAD.zip](https://modernroboticsinc.com/download/modern-robotics-sensors-cad/?wpdmdl=3670), [Core_Control_Modules_CAD.zip](https://modernroboticsinc.com/download/core-control-modules-cad/?wpdmdl=3669), [Phone_Mount_CAD.zip](https://modernroboticsinc.com/download/phone-mount-cad/?wpdmdl=3671)
   - Repository/Tracker: https://modernroboticsinc.com/downloads/
@@ -208,11 +208,20 @@ There are many bricks models created in different file formats.
   - Repository/Tracker: https://github.com/LEGO-compatible-gadgets/PELA-parametric-blocks
   - License: `CC BY-SA 4.0`
 
+- ***VEX IQ CAD*** — *VEX IQ* parts in *STEP*-format.
+  - Homepage: https://www.vexrobotics.com/vexiq/resources (+ [dimensions](https://content.vexrobotics.com/vexiq/pdf/VEX-IQ-3D-Print-Dimensions_v20140326.PDF), [colours](https://www.vexrobotics.com/vexiq/resources/color-part-number-info/))
+  - Packages: [VEX-IQ-All-Parts-STEP-20150626.zip](https://link.vex.com/cad/STEP/VEX-IQ-All-Parts-STEP)
+  - Repository/Tracker: https://www.vexrobotics.com/vexiq/resources/cad-snapcad
+  - License:
+
 ## Resources
 
 - ***LEGO Database Download (Rebrickable)*** — Parts/Sets/Colors and Inventories of every official *LEGO®* set available for download as csv files here. These files are automatically generated at the start of each month.
   - Homepage: https://rebrickable.com/downloads/
   - API: https://rebrickable.com/api/
+- ***Philo's LDraw Utilities***
+  - Homepage: http://philohome.com/
+  - Pages: [LDraw](http://philohome.com/ldraw.htm), [MNDSTORMS' & Technic](http://philohome.com/mindstorms.htm), [EV3 / NXT](http://philohome.com/nxt.htm), [VEX IQ](http://philohome.com/vex.htm), [Sensors](http://philohome.com/sensors.htm)
 
 ## Tools
 
@@ -280,7 +289,7 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - License: `CC BY-SA 3.0`
 
 - ***txt2dat*** — tool for creating text-based patterns for *LDraw parts*.
-  - Homepage: http://www.br-eng.info/words/2009/05/16/new-version-of-txt2dat-2/ (+ [wiki](http://wiki.ldraw.org/wiki/txt2dat), [discussion](https://forums.ldraw.org/thread-23185.html))
+  - Homepage: http://www.br-eng.info/my-lego-roscomenu-29/my-ldraw-roscomenu-45/50-txt2dat (+ [arhived](http://web.archive.org/web/20180129165503/http://www.br-eng.info/my-lego-roscomenu-29/my-ldraw-roscomenu-45/50-txt2dat), [article1](http://www.br-eng.info/words/2009/05/16/new-version-of-txt2dat-2/), [wiki](http://wiki.ldraw.org/wiki/txt2dat), [discussion](https://forums.ldraw.org/thread-23185.html))
   - Sources:
   - License: `GPL 2.0`
 
@@ -324,6 +333,8 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - http://www.ldraw.org/article/58.html#parts_authoring
 - https://wiki.ldraw.org/wiki/Tutorials
 - http://www.ldraw.org/omr_compliance
+- http://www.texbrick.com/articles/index.html
+- http://www.bigbenbricks.com/applications.html
 
 ## Project «Datsville»
 
