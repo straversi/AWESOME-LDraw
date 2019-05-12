@@ -31,7 +31,7 @@
 
 ## Colours
 
--  [LDConfig.ldr](http://www.ldraw.org/library/official/ldconfig.ldr) — official colours definitions for LDraw (+ [article1](http://www.ldraw.org/article/547.html), [spec](http://www.ldraw.org/article/299))
+- [LDConfig.ldr](http://www.ldraw.org/library/official/ldconfig.ldr) — official colours definitions for LDraw (+ [article1](http://www.ldraw.org/article/547.html), [spec](http://www.ldraw.org/article/299))
   - [LDCfgalt.ldr](http://www.ldraw.org/library/official/ldcfgalt.ldr) — alternative colours definitions for LDraw with different edgeline colours,primarily intended for rendering and those who prefer their CAD models to look more realistic in an editor such as *LeoCAD*, *MLCad*.
 - http://www.mecabricks.com/docs/colour_chart.pdf
 - https://rebrickable.com/media/downloads/colors.csv
