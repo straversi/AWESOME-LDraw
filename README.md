@@ -54,8 +54,8 @@
 
 ### LDraw Other Parts
 
-- ***Big Ben Bricks*** — unofficial LDraw parts for *Big Ben Bricks* train wheels.
-  - Homepage: http://www.bigbenbriks.com/ldraw.html (+ [page 2](http://www.bigbenbriks.com/ldraw/ldraw.html))
+- ***Big Ben Bricks*** — unofficial LDraw parts for *Big Ben Bricks* train wheels (BBB Wheels).
+  - Homepage: http://www.bigbenbricks.com/ldraw.html (+ [page2](http://www.bigbenbricks.com/ldraw/ldraw.html), [article1](http://www.br-eng.info/words/2005/08/30/bbb-wheels/))
   - Package(s):
   - Repository/Tracker:
   - License:
@@ -64,6 +64,18 @@
   - Homepage: http://krewanetadesu.com/pages/lego/heroica/parts.html
   - Package(s): [heroica-parts.zip](http://krewanetadesu.com/downloads/heroica-parts.zip)
   - Repository/Tracker:
+  - License:
+
+- ***HiTechnic Sensors and Multiplixers***
+  - Homepage: https://modernroboticsinc.com/download/ldraw-parts-pack-for-hitechnic-sensors-and-multiplexers/
+  - Package(s): [885-HTLDrawPack1_1.zip](https://modernroboticsinc.com/download/ldraw-parts-pack-for-hitechnic-sensors-and-multiplexers/?wpdmdl=3411)
+  - Repository/Tracker: https://modernroboticsinc.com/downloads/?wpdmc=sample-model-building-instructions-and-ldraw-parts
+  - License:
+
+- ***HiTechnic RotaBot, a Holonomic RotaCaster Robot***
+  - Homepage: https://modernroboticsinc.com/download/hitechnic-rotabot-a-holonomic-rotacaster-robot/
+  - Package(s): [726-HTRotaBot.zip](https://modernroboticsinc.com/download/hitechnic-rotabot-a-holonomic-rotacaster-robot/?wpdmdl=3414)
+  - Repository/Tracker: https://modernroboticsinc.com/downloads/?wpdmc=sample-model-building-instructions-and-ldraw-parts
   - License:
 
 - ***Hirst Arts Castlemolds***
@@ -89,6 +101,12 @@
   - Repository/Tracker: https://github.com/e-Mole/m-Bitbeam_Parts_for_LDraw ([ondratu's fork](https://github.com/ondratu/m-bitbeam))
   - License: `CC BY-NC-SA 4.0`
 
+- ***MATRIX***
+  - Homepage: https://modernroboticsinc.com/download/ldraw-matrix-parts-pack/
+  - Package(s): [610-MATRIXLDrawParts_2014_02_22.zip](https://modernroboticsinc.com/download/ldraw-matrix-parts-pack/?wpdmdl=3416)
+  - Repository/Tracker: https://modernroboticsinc.com/downloads/?wpdmc=sample-model-building-instructions-and-ldraw-parts
+  - License:
+
 - ***ME Models Track*** — LDraw parts library which includes the ME Models R56, R72, R88, and R104 curves as well as the half and double length straights.
   - Homepage: http://l-gauge.org/wiki/index.php/CAD_Tools
   - Package(s): [ldraw-parts-master.zip](https://github.com/Duq42/ldraw-parts/archive/master.zip) ([archived on L-Gauge](http://l-gauge.org/downloads/ldraw-parts-master.zip))
@@ -106,6 +124,12 @@
   - Package(s): [pfx-ldraw-models-master.zip](http://github.com/fx-bricks/pfx-ldraw-models/archive/master.zip), ([PFxLDrawRevA.zip](http://www.fxbricks.com/downloads/PFxLDrawRevA.zip))
   - Repository/Tracker: http://github.com/fx-bricks/pfx-ldraw-models
   - License: `BSD 2-Clause`
+
+***Rotacaster wheels***
+  - Homepage: https://modernroboticsinc.com/download/ldraw-parts-pack-for-rotacaster-wheels/
+  - Package(s): [726-rotacasterLdraw.zip](https://modernroboticsinc.com/download/ldraw-parts-pack-for-rotacaster-wheels/?wpdmdl=3415)
+  - Repository/Tracker: https://modernroboticsinc.com/downloads/?wpdmc=sample-model-building-instructions-and-ldraw-parts
+  - License:
 
 - ***Tente*** — Jasolo's *TENTE®* parts.
   - Homepage: https://tente3d.fandom.com/es/wiki/Tente_3D_Wiki ([EN](https://3dtente.fandom.com/wiki/Main_Page))
@@ -256,7 +280,7 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - License: `CC BY-SA 3.0`
 
 - ***txt2dat*** — tool for creating text-based patterns for *LDraw parts*.
-  - Homepage: http://wiki.ldraw.org/wiki/txt2dat (+ [discussion](https://forums.ldraw.org/thread-23185.html))
+  - Homepage: http://www.br-eng.info/words/2009/05/16/new-version-of-txt2dat-2/ (+ [wiki](http://wiki.ldraw.org/wiki/txt2dat), [discussion](https://forums.ldraw.org/thread-23185.html))
   - Sources:
   - License: `GPL 2.0`
 
