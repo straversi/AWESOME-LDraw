@@ -17,6 +17,7 @@
 >   - [LDraw Official & Unofficial Parts](#ldraw-official-and-unofficial-parts)
 >   - [LDraw Other Parts](#ldraw-other-parts)
 >   - [Non-LDraw Parts](#non-ldraw-parts)
+> - [Resources](#resources)
 > - [Tools](#tools)
 >   - [LDraw Software](#ldraw-software)
 >   - [Other Software](#other-software)
@@ -182,6 +183,12 @@ There are many bricks models created in different file formats.
   - Packages: [PELA-parametric-blocks-master.zip](https://github.com/LEGO-compatible-gadgets/PELA-parametric-blocks/archive/master.zip)
   - Repository/Tracker: https://github.com/LEGO-compatible-gadgets/PELA-parametric-blocks
   - License: `CC BY-SA 4.0`
+
+## Resources
+
+- ***LEGO Database Download (Rebrickable)*** — Parts/Sets/Colors and Inventories of every official *LEGO®* set available for download as csv files here. These files are automatically generated at the start of each month.
+  - Homepage: https://rebrickable.com/downloads/
+  - API: https://rebrickable.com/api/
 
 ## Tools
 
