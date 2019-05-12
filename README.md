@@ -67,15 +67,9 @@
   - License:
 
 - ***HiTechnic Sensors and Multiplixers***
-  - Homepage: https://modernroboticsinc.com/download/ldraw-parts-pack-for-hitechnic-sensors-and-multiplexers/
+  - Homepage: https://modernroboticsinc.com/downloads/?wpdmc=sample-model-building-instructions-and-ldraw-parts
   - Package(s): [885-HTLDrawPack1_1.zip](https://modernroboticsinc.com/download/ldraw-parts-pack-for-hitechnic-sensors-and-multiplexers/?wpdmdl=3411)
-  - Repository/Tracker: https://modernroboticsinc.com/downloads/?wpdmc=sample-model-building-instructions-and-ldraw-parts
-  - License:
-
-- ***HiTechnic RotaBot, a Holonomic RotaCaster Robot***
-  - Homepage: https://modernroboticsinc.com/download/hitechnic-rotabot-a-holonomic-rotacaster-robot/
-  - Package(s): [726-HTRotaBot.zip](https://modernroboticsinc.com/download/hitechnic-rotabot-a-holonomic-rotacaster-robot/?wpdmdl=3414)
-  - Repository/Tracker: https://modernroboticsinc.com/downloads/?wpdmc=sample-model-building-instructions-and-ldraw-parts
+  - Repository/Tracker: https://modernroboticsinc.com/downloads/
   - License:
 
 - ***Hirst Arts Castlemolds***
@@ -102,9 +96,9 @@
   - License: `CC BY-NC-SA 4.0`
 
 - ***MATRIX***
-  - Homepage: https://modernroboticsinc.com/download/ldraw-matrix-parts-pack/
+  - Homepage: https://modernroboticsinc.com/downloads/?wpdmc=sample-model-building-instructions-and-ldraw-parts
   - Package(s): [610-MATRIXLDrawParts_2014_02_22.zip](https://modernroboticsinc.com/download/ldraw-matrix-parts-pack/?wpdmdl=3416)
-  - Repository/Tracker: https://modernroboticsinc.com/downloads/?wpdmc=sample-model-building-instructions-and-ldraw-parts
+  - Repository/Tracker: https://modernroboticsinc.com/downloads/
   - License:
 
 - ***ME Models Track*** — LDraw parts library which includes the ME Models R56, R72, R88, and R104 curves as well as the half and double length straights.
@@ -183,6 +177,12 @@ There are many bricks models created in different file formats.
   - Package(s): [m-Bitbeam_Parts_for_3Dprint-master.zip](https://github.com/e-Mole/m-Bitbeam_Parts_for_3Dprint/archive/master.zip)
   - Repository/Tracker: https://github.com/e-Mole/m-Bitbeam_Parts_for_3Dprint ([ondratu's fork](https://github.com/ondratu/m-bitbeam))
   - License: `CC-BY-NC-SA 4.0`
+
+- ***MRI CAD Files*** — STEP-files of robotix bricks designed by *Modern Robotics Inc*.
+  - Homepage: https://modernroboticsinc.com/downloads/?wpdmc=mri-cad-files
+  - Packages: [Modern_Robotics_Sensors_CAD.zip](https://modernroboticsinc.com/download/modern-robotics-sensors-cad/?wpdmdl=3670), [Core_Control_Modules_CAD.zip](https://modernroboticsinc.com/download/core-control-modules-cad/?wpdmdl=3669), [Phone_Mount_CAD.zip](https://modernroboticsinc.com/download/phone-mount-cad/?wpdmdl=3671)
+  - Repository/Tracker: https://modernroboticsinc.com/downloads/
+  - License:
 
 - ***LEGO.scad*** — *OpenSCAD* *LEGO®*-compatible brick generator.
   - Homepage: http://www.chrisfinke.com/2015/01/27/3d-printed-lego-compatible-bricks/
