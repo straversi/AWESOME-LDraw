@@ -93,7 +93,7 @@
   - License:
 
 - ***Modulex*** — *Modulex®* parts.
-  - Homepage: http://www.chris-w-dee.co.uk/Modulex/ (+ [discussion](https://forums.ldraw.org/thread-5616.html), [article1](https://www.newelementary.com/2017/11/old-bricks-what-are-modulex-lego.html), [article2](http://www.newelementary.com/2018/11/old-elementary-modulex-integration_15.html), [article3](http://www.newelementary.com/2018/11/how-to-connect-modulex-with-lego.html), [article4](https://www.newelementary.com/2019/05/colours-used-lego-fabuland-theme.html))
+  - Homepage: http://www.chris-w-dee.co.uk/Modulex/ (+ [discussion1](https://news.lugnet.com/cad/?n=17385&t=i&v=a), [discussion2](https://forums.ldraw.org/thread-5616.html), [article1](https://www.newelementary.com/2017/11/old-bricks-what-are-modulex-lego.html), [article2](http://www.newelementary.com/2018/11/old-elementary-modulex-integration_15.html), [article3](http://www.newelementary.com/2018/11/how-to-connect-modulex-with-lego.html), [article4](https://www.newelementary.com/2019/05/colours-used-lego-fabuland-theme.html))
   - Package(s): [modulex.zip](http://www.chris-w-dee.co.uk/Modulex/modulex.zip)
   - Repository/Tracker:
   - License:
