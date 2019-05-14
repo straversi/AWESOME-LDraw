@@ -222,6 +222,8 @@ There are many bricks models created in different file formats.
 - ***Philo's LDraw Utilities***
   - Homepage: http://philohome.com/
   - Pages: [LDraw](http://philohome.com/ldraw.htm), [MNDSTORMS' & Technic](http://philohome.com/mindstorms.htm), [EV3 / NXT](http://philohome.com/nxt.htm), [VEX IQ](http://philohome.com/vex.htm), [Sensors](http://philohome.com/sensors.htm)
+- ***J.C. Tchang's website*** (in French)
+  - http://jc-tchang.philohome.com/index.htm
 
 ## Tools
 
