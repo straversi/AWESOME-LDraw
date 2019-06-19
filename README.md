@@ -357,39 +357,7 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
 
 > NOTE: Reference links unsorted! Some links could be broken!
 
-- http://www.ldraw.org
-  - http://www.ldraw.org/parts/other-parts-libraries.html
-
-- http://www.holly-wood.it/index-en.html
-  - http://www.holly-wood.it/ldraw-en.html
-  - http://www.holly-wood.it/mlcad/unofficial1-en.html
-  - http://www.holly-wood.it/mlcad/authoring-en.html
-
-- http://en.wikipedia.org/wiki/LDraw
-- http://www.brothers-brick.com/tag/ldraw/
-- http://www.digital-bricks.de/en/index.php?site=lddp&mg=229
-
-- http://wiki.ldraw.org/wiki/LEGO_Software_Power_Tools
-  - http://dl.acm.org/citation.cfm?1214062
-  - http://www.genuinemodels.com/drill.htm
-  - http://legoengineering.com/meet-the-creator-kevin-clague/
-
-- http://www.ldraw.org/downloads-2/third-party-software.html
-- http://www.eurobricks.com/forum/index.php?/forums/topic/151934-what-is-the-best-digital-tool-to-start-with/
-- http://www.bartneck.de/2018/09/06/comparsion-of-lego-render-tools
-- http://www.quora.com/How-can-I-make-building-instructions-for-a-Lego-model-I-made
-- http://rebrickable.com/help/virtual-building/
-- http://jkbrickworks.com/tag/micro-scale/
-- http://jkbrickworks.com/tag/science-fiction/
-- http://news.ycombinator.com/item?id=19236249
-  - jamieberard-brickstress-bf06.pdf
-- UnofficialLEGOAdvancedBuildingTechniquesGuide.pdf
-
-- http://sariel.pl/downloads/
-
-- http://www.parlugment.org/resources.php
-
-- https://www.virtualbricks.nl/links.html
+Reference links listed on [AWESOME-LDraw wiki](https://github.com/Symbian9/AWESOME-LDraw/wiki)
 
 ***
 
