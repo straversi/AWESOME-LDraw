@@ -241,11 +241,6 @@ For beginners recommended tools are:
   - Sources: http://github.com/leozide/leocad
   - License: `GPL 2.0`
 
-- ***MLCad.ini*** — parts list for *MLCad* and *LeoCAD* minifigure generator.
-  - Homepage: http://www.holly-wood.it/mlcad/mlcad_ini-en.html (+ [article](http://www.holly-wood.it/mlcad/customizing-en.html))
-  - Sources: [MLCad_ini_2018-02.zip](http://www.holly-wood.it/files/mlcad/MLCad_ini_2018-02.zip)
-  - License:
-
 - ***LDView*** — *Travis Cobb*'s real-time 3D viewer for displaying *LDraw models*.
   - Homepage: https://tcobbs.github.io/ldview/
   - Sources: https://github.com/tcobbs/ldview
@@ -264,6 +259,11 @@ For beginners recommended tools are:
 > NOTE: *LeoCAD* and *Lpub3D* tools could use *LGEO* parts for render *LDraw models* using *PovRay* render engine.
 
 Advanced users would like to use next tools for create own *LDraw parts* (*authoring*), convert *LDraw files*, etc.:
+
+- ***MLCad.ini*** — parts list for *MLCad* and *LeoCAD* minifigure generator.
+  - Homepage: http://www.holly-wood.it/mlcad/mlcad_ini-en.html (+ [article](http://www.holly-wood.it/mlcad/customizing-en.html))
+  - Sources: [MLCad_ini_2018-02.zip](http://www.holly-wood.it/files/mlcad/MLCad_ini_2018-02.zip)
+  - License:
 
 - ***MPDCenter*** — tool for maintain and check *MPD files* for [*OMR conformity*](http://www.ldraw.org/article/593.html).
   - Homepage: http://ldraw.heidemann.org/index.php?page=mpdcenter (+ [article](http://www.ldraw.org/omr_compliance))
