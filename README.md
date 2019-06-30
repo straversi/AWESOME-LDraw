@@ -270,6 +270,11 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - Sources: https://ldraw.heidemann.org/uploads/mpdcenter/mpdcenter.zip
   - License:
 
+- ***LSynth*** — is a program that synthesizes bendable parts for *LDraw files*.
+  - Homepage: https://deeice.github.io/lsynth/ (+ [tutorial](http://www.holly-wood.it/lsynth/tutorial-en.html), [troubleshooting](http://www.holly-wood.it/lsynth/troubleshooting-en.html), [examples](http://www.holly-wood.it/lsynth/examples-en.html))
+  - Sources: https://github.com/deeice/lsynth
+  - License:
+
 - ***LDDesignPad*** — powerful text editor for editing *LDraw files*.
   - Homepage: http://lddp.sourceforge.net
   - Sources: http://sourceforge.net/projects/lddp ([GitHub mirror](https://github.com/billthefish/LDrawDesignPad)
