@@ -302,6 +302,11 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
 
 #### Other Software
 
+- ***lego_instructions*** — Lego instructions download assistant (Python3 script for download official PDF instructions).
+  - Homepage: https://www.eurobricks.com/forum/index.php?/forums/topic/173364-lego-instructions-download-assistant-python3/
+  - Sources: https://github.com/Jellofishi/lego_instructions
+  - License: `GPL 3.0`
+
 - ***Lego Digital Designer (LDD)*** — official freeware *LEGO®* virtual model editor (development deprecated).
   - Homepage: http://www.lego.com/en-us/ldd
   - Sources:
