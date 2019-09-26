@@ -23,6 +23,7 @@
   - [Other Software](#other-software)
 - [**Tutorials**](#tutorials)
 - [**Project «Datsville»**](#project-datsville)
+- [**«Micropolis» Standard**](#micropolis-standard)
 - [**REFERENCES**](#references)
 
 ### File Format Specification
@@ -376,11 +377,25 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
 - Repository/Tracker: https://sourceforge.net/projects/datsville
 - License: `CC BY-SA 3.0` (for content) ; `LGPL 2.0`(for code)
 
-*«Datsville»* discussions & addons:
+*«Datsville»* discussions & resources:
 
 - http://www.eurobricks.com/forum/index.php?/forums/topic/60031-datsville-community-ldraw-project/
 - http://forums.ldraw.org/thread-11441.html
 - http://lego.sparre-andersen.dk/Byggevejledninger/
+
+## «Micropolis» Standard
+
+***«Micropolis»*** — standard to allow individual LEGO® & LDraw builders to build modules to add to a micro scale city in a group build. On August 17, 2008 *Max Braun* brought what would be the very first *Micropolis module* to a *«TwinLUG»* meeting.
+
+- Homepage: http://twinlug.com/micropolis-micro-city-standard/
+- Package(s):
+- Repository/Tracker:
+- License:
+
+*«Micropolis»* discussions & resources:
+
+- https://github.com/Symbian9/Micropolis-Standard-LDraw
+- http://www.virtualmicropolis.org
 
 ## REFERENCES
 
