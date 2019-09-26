@@ -302,10 +302,10 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
 
 #### Other Software
 
-- ***Lego Digital Designer (LDD)*** — Official *LEGO®* virtual model editor (development deprecated).
-  - Homepage:
+- ***Lego Digital Designer (LDD)*** — official freeware *LEGO®* virtual model editor (development deprecated).
+  - Homepage: http://www.lego.com/en-us/ldd
   - Sources:
-  - License: 
+  - License: `Proprietary` 
   - Addons: [Lego Digital Designer related scripts](http://github.com/sttng/LDD)
 
 - ***POV-Ray*** — render engine useful for create realistic images from 3D models.
@@ -320,16 +320,16 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - License: `GPL 3.0`
   - Addons: [*ImportLDraw*](http://github.com/TobyLobster/ImportLDraw) ; [*LDR-Importer*](http://github.com/le717/LDR-Importer)
 
-- ***Cinema4D (C4D)*** —
-  - Homepage:
+- ***Cinema4D (C4D)*** — commercial 3D modeling, animation, motion graphics and rendering application.
+  - Homepage: https://maxon.net/products/cinema-4d.html
   - Sources:
-  - License:
-  - Addons: [LDR2C4D](https://github.com/jonnysp/LDR2C4D), [*LDD2C4D*](https://github.com/jonnysp/LDD2C4D)
+  - License: `Proprietary`
+  - Addons: [*LDR2C4D*](https://github.com/jonnysp/LDR2C4D), [*LDD2C4D*](https://github.com/jonnysp/LDD2C4D)
 
-- ***Unity*** —
-  - Homepage:
+- ***Unity*** — commercial cross-platform game engine and development toolkit.
+  - Homepage: https://unity.com
   - Sources:
-  - License:
+  - License: `Proprietary`
   - Addons: [*LDraw_Importer_Unity*](http://github.com/Nox7atra/LDraw_Importer_Unity)
 
 - ***OpenSCAD*** — programmers solid 3D CAD modeller.
