@@ -302,10 +302,16 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
 
 #### Other Software
 
-- ***lego_instructions*** — Lego instructions download assistant (Python3 script for download official PDF instructions).
+- ***lego_instructions*** — Lego instructions download assistant (Python3 scripts for download PDF instructions).
   - Homepage: https://www.eurobricks.com/forum/index.php?/forums/topic/173364-lego-instructions-download-assistant-python3/
   - Sources: https://github.com/Jellofishi/lego_instructions
   - License: `GPL 3.0`
+
+- ***lxf2ldr*** — tool for converting LDD files (LXF models) to LDraw format.
+  - Homepage: https://www.eurobricks.com/forum/index.php?/forums/topic/150480-announcing-lxf2ldr/
+  - Sources: https://gitlab.com/sylvainls/lxf2ldr
+  - License: `GPL 3.0+`
+  - Addons: [ldraw.xml](http://slswww.free.fr/ldraw.xml) (+[discussion](https://www.eurobricks.com/forum/index.php?/forums/topic/137193-more-up-to-date-ldrawxml-lddldraw-conversion-file/)), [ldraw.html](https://gitlab.com/sylvainls/lxf2ldr.html) (+[discussion](https://www.eurobricks.com/forum/index.php?/forums/topic/169815-lxf2ldrhtml-the-even-more-awesome-lxf2ldr/))
 
 - ***Lego Digital Designer (LDD)*** — official freeware *LEGO®* virtual model editor (development deprecated).
   - Homepage: http://www.lego.com/en-us/ldd
@@ -314,7 +320,8 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - Addons: [Lego Digital Designer related scripts](http://github.com/sttng/LDD)
 
 - ***POV-Ray*** — render engine useful for create realistic images from 3D models.
-  - Homepage: http://www.povray.org
+  - Homepage: http://www.povray.org (+[guide for render LDraw](
+- https://www.eurobricks.com/forum/index.php?/forums/topic/65876-guide-rendering-ldraw-models-using-pov-ray/))
   - Sources: https://github.com/POV-Ray/povray
   - License: `AGPL 3.0`
   - Addons: ***LGEO*** (see above), ***Anton Raves' Library*** (see above), [*LightsysVI*](http://www.ignorancia.org/en/index.php?page=Lightsys) (`lightsys4c.zip`)
