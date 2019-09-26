@@ -318,7 +318,7 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - Homepage: http://blender.org
   - Sources: https://git.blender.org
   - License: `GPL 3.0`
-  - Addons: [*ImportLDraw*](http://github.com/TobyLobster/ImportLDraw) ; [*LDR-Importer*](http://github.com/le717/LDR-Importer)
+  - Addons: [*ImportLDraw*](http://github.com/TobyLobster/ImportLDraw), [*LDR-Importer*](http://github.com/le717/LDR-Importer)
 
 - ***Cinema4D (C4D)*** — commercial 3D modeling, animation, motion graphics and rendering application.
   - Homepage: https://maxon.net/products/cinema-4d.html
@@ -336,7 +336,7 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - Homepage: http://www.openscad.org
   - Sources: https://github.com/openscad/openscad
   - License: `GPL 2.0`
-  - Addons: ***Bitbeam*** (see above), ***Bitbeam-lib*** (see above), ***LEGO.scad*** (see above), ***openBrick*** (see above), ***PELA Blocks*** (see above)
+  - Addons: ***Bitbeam*** (see above), *Bitbeam-lib* (see above), *LEGO.scad* (see above), *openBrick* (see above), *PELA Blocks* (see above)
 
 - ***SolveSpace*** — simple to use parametric 2D/3D CAD & CAE.
   - Homepage: http://solvespace.com
