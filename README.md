@@ -2,43 +2,43 @@
 
 *LDraw* — awesome software, file format, parts library and model repository (3D models of LEGO® and LEGO-compatible bricks)
 
-- http://www.ldraw.org/
-- http://wiki.ldraw.org/wiki/LDraw.org_Wiki
-- http://forums.ldraw.org/
-- http://omr.ldraw.org/
+> [![LDraw.org](https://forums.ldraw.org/images/mainsite_logo.png)](http://www.ldraw.org)
+>
+> - Homepage: http://ldraw.org/
+> - Wiki: http://wiki.ldraw.org/wiki/LDraw.org_Wiki
+> - Forum: http://forums.ldraw.org/
+> - Virtual Models repository: http://omr.ldraw.org/
 
-[![LDraw.org](https://forums.ldraw.org/images/mainsite_logo.png)](http://www.ldraw.org)
+## TABLE OF CONTENTS
 
-> **TABLE OF CONTENTS**
-> 
-> - [File Format Specification](#file-format-specification)
-> - [Colours](#colours)
-> - [Bricks and Blocks](#bricks-and-blocks)
->   - [LDraw Official & Unofficial Parts](#ldraw-official-and-unofficial-parts)
->   - [LDraw Other Parts](#ldraw-other-parts)
->   - [Non-LDraw Parts](#non-ldraw-parts)
-> - [Resources](#resources)
-> - [Tools](#tools)
->   - [LDraw Software](#ldraw-software)
->   - [Other Software](#other-software)
-> - [Tutorials](#tutorials)
-> - [Project «Datsville»](#project-datsville)
-> - [REFERENCES](#references)
+- [**File Format Specification**](#file-format-specification)
+- [**Colours**](#colours)
+- [**Bricks and Blocks**](#bricks-and-blocks)
+  - [LDraw Official & Unofficial Parts](#ldraw-official-and-unofficial-parts)
+  - [LDraw Other Parts](#ldraw-other-parts)
+  - [Non-LDraw Parts](#non-ldraw-parts)
+- [**Resources**](#resources)
+- [**Tools**](#tools)
+  - [LDraw Software](#ldraw-software)
+  - [Other Software](#other-software)
+- [**Tutorials*](#tutorials)
+- [**Project «Datsville»**](#project-datsville)
+- [**REFERENCES**](#references)
 
-## File Format Specification
+### File Format Specification
 
 - https://wiki.ldraw.org/wiki/Category:LDraw_Files_Syntax
 
-## Colours
+### Colours
 
 - [LDConfig.ldr](http://www.ldraw.org/library/official/ldconfig.ldr) — official colours definitions for LDraw (+ [article1](http://www.ldraw.org/article/547.html), [spec](http://www.ldraw.org/article/299))
   - [LDCfgalt.ldr](http://www.ldraw.org/library/official/ldcfgalt.ldr) — alternative colours definitions for LDraw with different edgeline colours,primarily intended for rendering and those who prefer their CAD models to look more realistic in an editor such as *LeoCAD*, *MLCad*.
 - http://www.mecabricks.com/docs/colour_chart.pdf
 - https://rebrickable.com/media/downloads/colors.csv
 
-## Bricks and Blocks
+### Bricks and Blocks
 
-### LDraw Official and Unofficial Parts
+#### LDraw Official and Unofficial Parts
 
 - ***LDraw Official*** — *LEGO®* parts maintained by [LDraw.org](http://www.ldraw.org) (latest stable release).
   - Homepage: http://www.ldraw.org/article/13.html
@@ -52,7 +52,7 @@
   - Repository/Tracker: http://www.ldraw.org/library/tracker/
   - License: `CCAL 2.0`
 
-### LDraw Other Parts
+#### LDraw Other Parts
 
 - ***Big Ben Bricks*** — unofficial LDraw parts for *Big Ben Bricks* train wheels (BBB Wheels).
   - Homepage: http://www.bigbenbricks.com/ldraw.html (+ [page2](http://www.bigbenbricks.com/ldraw/ldraw.html), [article1](http://www.br-eng.info/words/2005/08/30/bbb-wheels/))
@@ -143,7 +143,7 @@
   - Repository/Tracker: http://www.virtual.minibrix.com/news.html
   - License:
 
-### Non-LDraw Parts
+#### Non-LDraw Parts
 
 There are many bricks models created in different file formats.
 
@@ -214,7 +214,7 @@ There are many bricks models created in different file formats.
   - Repository/Tracker: https://www.vexrobotics.com/vexiq/resources/cad-snapcad
   - License:
 
-## Resources
+### Resources
 
 - ***LEGO Database Download (Rebrickable)*** — Parts/Sets/Colors and Inventories of every official *LEGO®* set available for download as csv files here. These files are automatically generated at the start of each month.
   - Homepage: https://rebrickable.com/downloads/
@@ -225,9 +225,9 @@ There are many bricks models created in different file formats.
 - ***J.C. Tchang's website*** (in French)
   - http://jc-tchang.philohome.com/index.htm
 
-## Tools
+### Tools
 
-### LDraw Software
+#### LDraw Software
 
 There are official *LDraw* software tools and unofficial *LDraw*-compatible software.
 
@@ -300,7 +300,13 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - Sources:
   - License: `GPL 2.0`
 
-### Other Software
+#### Other Software
+
+- ***Lego Digital Designer (LDD)*** — Official *LEGO®* virtual model editor (development deprecated).
+  - Homepage:
+  - Sources:
+  - License: 
+  - Addons: [Lego Digital Designer related scripts](http://github.com/sttng/LDD)
 
 - ***POV-Ray*** — render engine useful for create realistic images from 3D models.
   - Homepage: http://www.povray.org
@@ -314,6 +320,12 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - License: `GPL 3.0`
   - Addons: [*ImportLDraw*](http://github.com/TobyLobster/ImportLDraw) ; [*LDR-Importer*](http://github.com/le717/LDR-Importer)
 
+- ***Cinema4D (C4D)*** —
+  - Homepage:
+  - Sources:
+  - License:
+  - Addons: [LDR2C4D](https://github.com/jonnysp/LDR2C4D), [*LDD2C4D*](https://github.com/jonnysp/LDD2C4D)
+
 - ***Unity*** —
   - Homepage:
   - Sources:
@@ -324,14 +336,14 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - Homepage: http://www.openscad.org
   - Sources: https://github.com/openscad/openscad
   - License: `GPL 2.0`
-  - Addons: ***Bitbeam*** (see above), ***Bitbeam-lib*** (see above), ***LEGO.scad*** (see above), ***openBrick*** (see above), ***PELA Blocks*** (see above),
+  - Addons: ***Bitbeam*** (see above), ***Bitbeam-lib*** (see above), ***LEGO.scad*** (see above), ***openBrick*** (see above), ***PELA Blocks*** (see above)
 
 - ***SolveSpace*** — simple to use parametric 2D/3D CAD & CAE.
   - Homepage: http://solvespace.com
   - Sources: http://github.com/solvespace/solvespace
   - License: `GPL 3.0`
 
-## Tutorials
+### Tutorials
 
 - http://www.ldraw.org/article/58.html
   - http://www.ldraw.org/article/58.html#modeling
@@ -358,7 +370,7 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
 - http://forums.ldraw.org/thread-11441.html
 - http://lego.sparre-andersen.dk/Byggevejledninger/
 
-## REFERENCE
+## REFERENCES
 
 > NOTE: Reference links unsorted! Some links could be broken!
 
