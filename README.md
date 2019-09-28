@@ -9,35 +9,44 @@
 > - Forum: http://forums.ldraw.org/
 > - Virtual Models repository: http://omr.ldraw.org/
 
+----
+
 ## TABLE OF CONTENTS
 
-- [**File Format Specification**](#file-format-specification)
-- [**Colours**](#colours)
-- [**Bricks and Blocks**](#bricks-and-blocks)
+- [**FILE FORMAT SPECIFICATION**](#file-format-specification)
+- [**COLORS**](#colours)
+- [**BRICKS & BLOCKS**](#bricks-blocks)
   - [**LDraw Official & Unofficial Parts**](#ldraw-official-and-unofficial-parts)
   - [**LDraw Other Parts**](#ldraw-other-parts)
   - [Non-LDraw Parts](#non-ldraw-parts)
-- [**Resources**](#resources)
-- [**Tools**](#tools)
+- [**RESOURCES**](#resources)
+- [**APPS & SOFTWARE TOOLS**](#apps-software-tools)
   - [**LDraw Software**](#ldraw-software)
   - [Other Software](#other-software)
-- [**Tutorials**](#tutorials)
+- [**TUTORIALS**](#tutorials)
 - [**Project «Datsville»**](#project-datsville)
 - [**«Micropolis» Standard**](#micropolis-standard)
+- [**TERMINOLOGY**](#terminology)
 - [**REFERENCES**](#references)
 
-### File Format Specification
+----
+
+### FILE FORMAT SPECIFICATION
 
 - https://wiki.ldraw.org/wiki/Category:LDraw_Files_Syntax
 
-### Colours
+----
+
+### COLORS
 
 - [LDConfig.ldr](http://www.ldraw.org/library/official/ldconfig.ldr) — official colours definitions for LDraw (+ [article1](http://www.ldraw.org/article/547.html), [spec](http://www.ldraw.org/article/299))
   - [LDCfgalt.ldr](http://www.ldraw.org/library/official/ldcfgalt.ldr) — alternative colours definitions for LDraw with different edgeline colours,primarily intended for rendering and those who prefer their CAD models to look more realistic in an editor such as *LeoCAD*, *MLCad*.
 - http://www.mecabricks.com/docs/colour_chart.pdf
 - https://rebrickable.com/media/downloads/colors.csv
 
-### Bricks and Blocks
+----
+
+### BRICKS & BLOCKS
 
 #### LDraw Official and Unofficial Parts
 
@@ -144,17 +153,13 @@
   - Repository/Tracker: http://www.virtual.minibrix.com/news.html
   - License:
 
+----
+
 #### Non-LDraw Parts
 
 There are many bricks models created in different file formats.
 
 > NOTE: Some of Non-LDraw parts could be converted to LDraw formats using different tools or could be useful for LDraw-tools.
-
-- ***LGEO*** — fan created collection of *LEGO®* Geometrical Equivalent Objects (parts) to be used with *POV-Ray*.
-  - Homepage: http://www.digitalbricks.org/lgeo.html (+ [discussion](https://forums.ldraw.org/thread-21748.html))
-  - Package(s): [lgeo-master.zip](https://github.com/jncraton/lgeo/archive/master.zip)
-  - Repository/Tracker: https://github.com/jncraton/lgeo
-  - License:
 
 - ***Anton Raves' Library*** — Lego Include File Library for *POVRay 3.7*.
   - Homepage: https://www.virtualbricks.nl/ (+ [discussion](https://forums.ldraw.org/thread-23404.html), [article1](https://www.virtualbricks.nl/news.php?item=2015_10_09_How_to_install_POV-Ray_under_macOS_El_Capitan_and_(High)_Sierra), [article2](https://www.virtualbricks.nl/news.php?item=2018_06_05_How_to_install_POV-Ray_3.7_under_Ubuntu_17.10_or_18.04_LTS))
@@ -173,6 +178,12 @@ There are many bricks models created in different file formats.
   - Repository/Tracker: https://github.com/ondratu/bitbeam-lib
   - License: `BSD 3-Clause`
 
+- ***BlueBricks Additional Parts*** — parts for *BlueBricks* app for designing LEGO Train layouts.
+  - Homepage: http://bluebrick.lswproject.com/ ([wiki](https://wiki.ldraw.org/wiki/BlueBrick))
+  - Package(s): [AllAdditionalParts.zip](http://bluebrick.lswproject.com/download/AllAdditionalParts.zip) ([TrainPackage.zip](http://bluebrick.lswproject.com/download/TrainPackage.zip)+[TownPackage.zip](http://bluebrick.lswproject.com/download/TownPackage.zip)+[VehiclePackage.zip](http://bluebrick.lswproject.com/download/VehiclePackage.zip)+[SpacePackage.zip](http://bluebrick.lswproject.com/download/SpacePackage.zip)+[CastlePackage.zip](http://bluebrick.lswproject.com/download/CastlePackage.zip)+[DuploPackage.zip](http://bluebrick.lswproject.com/download/DuploPackage.zip))
+  - Repository/Tracker: http://bluebrick.lswproject.com/download.html ([part tracker](http://bluebrick.lswproject.com/partracker.html))
+  - License: `GPL 3.0`
+
 - ***m-Bitbeam*** — parts in STL format for 3D print.
   - Homepage: http://www.tfsoft.cz/m-bitbeam (+ [wiki](https://github.com/bitbeam/bitbeam/wiki/The-Bitbeam-project))
   - Package(s): [m-Bitbeam_Parts_for_3Dprint-master.zip](https://github.com/e-Mole/m-Bitbeam_Parts_for_3Dprint/archive/master.zip)
@@ -190,6 +201,12 @@ There are many bricks models created in different file formats.
   - Packages: [LEGO.scad-master.zip](http://github.com/cfinke/LEGO.scad/archive/master.zip)
   - Repository/Tracker: http://github.com/cfinke/LEGO.scad
   - License: `MIT`
+
+- ***LGEO*** — fan created collection of *LEGO®* Geometrical Equivalent Objects (parts) to be used with *POV-Ray*.
+  - Homepage: http://www.digitalbricks.org/lgeo.html (+ [discussion](https://forums.ldraw.org/thread-21748.html))
+  - Package(s): [lgeo-master.zip](https://github.com/jncraton/lgeo/archive/master.zip)
+  - Repository/Tracker: https://github.com/jncraton/lgeo
+  - License:
 
 - ***openBrick*** — open-source library of 3D printing snap-together toy building blocks written in *OpenSCAD*.
   - Homepage:
@@ -215,7 +232,9 @@ There are many bricks models created in different file formats.
   - Repository/Tracker: https://www.vexrobotics.com/vexiq/resources/cad-snapcad
   - License:
 
-### Resources
+----
+
+### RESOURCES
 
 - ***LEGO Database Download (Rebrickable)*** — Parts/Sets/Colors and Inventories of every official *LEGO®* set available for download as csv files here. These files are automatically generated at the start of each month.
   - Homepage: https://rebrickable.com/downloads/
@@ -226,7 +245,9 @@ There are many bricks models created in different file formats.
 - ***J.C. Tchang's website*** (in French)
   - http://jc-tchang.philohome.com/index.htm
 
-### Tools
+----
+
+### APPS & SOFTWARE TOOLS
 
 #### LDraw Software
 
@@ -301,24 +322,49 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - Sources:
   - License: `GPL 2.0`
 
-#### Other Software
-
-- ***lego_instructions*** — Lego instructions download assistant (Python3 scripts for download PDF instructions).
-  - Homepage: https://www.eurobricks.com/forum/index.php?/forums/topic/173364-lego-instructions-download-assistant-python3/
-  - Sources: https://github.com/Jellofishi/lego_instructions
-  - License: `GPL 3.0`
-
 - ***lxf2ldr*** — tool for converting LDD files (LXF models) to LDraw format.
   - Homepage: https://www.eurobricks.com/forum/index.php?/forums/topic/150480-announcing-lxf2ldr/
   - Sources: https://gitlab.com/sylvainls/lxf2ldr
   - License: `GPL 3.0+`
   - Addons: [ldraw.xml](http://slswww.free.fr/ldraw.xml) (+[discussion](https://www.eurobricks.com/forum/index.php?/forums/topic/137193-more-up-to-date-ldrawxml-lddldraw-conversion-file/)), [ldraw.html](https://gitlab.com/sylvainls/lxf2ldr.html) (+[discussion](https://www.eurobricks.com/forum/index.php?/forums/topic/169815-lxf2ldrhtml-the-even-more-awesome-lxf2ldr/))
 
+#### Other Software
+
+- ***Blender*** — 3D polygonal editor & render engine.
+  - Homepage: http://blender.org
+  - Sources: https://git.blender.org
+  - License: `GPL 3.0`
+  - Addons: [*ImportLDraw*](http://github.com/TobyLobster/ImportLDraw), [*LDR-Importer*](http://github.com/le717/LDR-Importer)
+
+- ***BlueBricks*** — app for designing *LEGO Train* layouts. It has an *LDraw* input and output mode, and can produce either `.ldr` or `.mpd` files. But since *BlueBrick* does not directly use the *LDraw Parts Library*. 
+  - Homepage: http://bluebrick.lswproject.com/ ([wiki](https://wiki.ldraw.org/wiki/BlueBrick))
+  - Sources: http://bitbucket.org/banban/bluebrick ([contributing](http://bluebrick.lswproject.com/contribute.html))
+  - Repository/Tracker: http://bluebrick.lswproject.com/download.html
+  - License: `GPL 3.0`
+  - Addons: ***BlueBricks Additional Parts*** (see above)
+
+- ***Cinema4D (C4D)*** — commercial 3D modeling, animation, motion graphics and rendering application.
+  - Homepage: https://maxon.net/products/cinema-4d.html
+  - Sources:
+  - License: `Proprietary`
+  - Addons: [*LDR2C4D*](https://github.com/jonnysp/LDR2C4D), [*LDD2C4D*](https://github.com/jonnysp/LDD2C4D)
+
 - ***Lego Digital Designer (LDD)*** — official freeware *LEGO®* virtual model editor (development deprecated).
   - Homepage: http://www.lego.com/en-us/ldd
   - Sources:
   - License: `Proprietary` 
-  - Addons: [Lego Digital Designer related scripts](http://github.com/sttng/LDD)
+  - Addons: ***lxf2ldr*** (see above), [*Lego Digital Designer related scripts*](http://github.com/sttng/LDD)
+
+- ***lego_instructions*** — Lego instructions download assistant (Python3 scripts for download PDF instructions).
+  - Homepage: https://www.eurobricks.com/forum/index.php?/forums/topic/173364-lego-instructions-download-assistant-python3/
+  - Sources: https://github.com/Jellofishi/lego_instructions
+  - License: `GPL 3.0`
+
+- ***OpenSCAD*** — programmers solid 3D CAD modeller.
+  - Homepage: http://www.openscad.org
+  - Sources: https://github.com/openscad/openscad
+  - License: `GPL 2.0`
+  - Addons: ***Bitbeam*** (see above), *Bitbeam-lib* (see above), *LEGO.scad* (see above), *openBrick* (see above), *PELA Blocks* (see above)
 
 - ***POV-Ray*** — render engine useful for create realistic images from 3D models.
   - Homepage: http://www.povray.org (+[guide for render LDraw](
@@ -327,17 +373,10 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - License: `AGPL 3.0`
   - Addons: ***LGEO*** (see above), ***Anton Raves' Library*** (see above), [*LightsysVI*](http://www.ignorancia.org/en/index.php?page=Lightsys) (`lightsys4c.zip`)
 
-- ***Blender*** — 3D polygonal editor & render engine.
-  - Homepage: http://blender.org
-  - Sources: https://git.blender.org
+- ***SolveSpace*** — simple to use parametric 2D/3D CAD & CAE.
+  - Homepage: http://solvespace.com
+  - Sources: http://github.com/solvespace/solvespace
   - License: `GPL 3.0`
-  - Addons: [*ImportLDraw*](http://github.com/TobyLobster/ImportLDraw), [*LDR-Importer*](http://github.com/le717/LDR-Importer)
-
-- ***Cinema4D (C4D)*** — commercial 3D modeling, animation, motion graphics and rendering application.
-  - Homepage: https://maxon.net/products/cinema-4d.html
-  - Sources:
-  - License: `Proprietary`
-  - Addons: [*LDR2C4D*](https://github.com/jonnysp/LDR2C4D), [*LDD2C4D*](https://github.com/jonnysp/LDD2C4D)
 
 - ***Unity*** — commercial cross-platform game engine and development toolkit.
   - Homepage: https://unity.com
@@ -345,18 +384,9 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - License: `Proprietary`
   - Addons: [*LDraw_Importer_Unity*](http://github.com/Nox7atra/LDraw_Importer_Unity)
 
-- ***OpenSCAD*** — programmers solid 3D CAD modeller.
-  - Homepage: http://www.openscad.org
-  - Sources: https://github.com/openscad/openscad
-  - License: `GPL 2.0`
-  - Addons: ***Bitbeam*** (see above), *Bitbeam-lib* (see above), *LEGO.scad* (see above), *openBrick* (see above), *PELA Blocks* (see above)
+----
 
-- ***SolveSpace*** — simple to use parametric 2D/3D CAD & CAE.
-  - Homepage: http://solvespace.com
-  - Sources: http://github.com/solvespace/solvespace
-  - License: `GPL 3.0`
-
-### Tutorials
+### TUTORIALS
 
 - http://www.ldraw.org/article/58.html
   - http://www.ldraw.org/article/58.html#modeling
@@ -367,6 +397,8 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
 - http://www.ldraw.org/omr_compliance
 - http://www.texbrick.com/articles/index.html
 - http://www.bigbenbricks.com/applications.html
+
+----
 
 ## Project «Datsville»
 
@@ -383,6 +415,8 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
 - http://forums.ldraw.org/thread-11441.html
 - http://lego.sparre-andersen.dk/Byggevejledninger/
 
+----
+
 ## «Micropolis» Standard
 
 ***«Micropolis»*** — standard to allow individual LEGO® & LDraw builders to build modules to add to a micro scale city in a group build. On August 17, 2008 *Max Braun* brought what would be the very first *Micropolis module* to a *«TwinLUG»* meeting.
@@ -397,13 +431,21 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
 - https://github.com/Symbian9/Micropolis-Standard-LDraw
 - http://www.virtualmicropolis.org
 
+----
+
+## TERMINOLOGY
+
+- https://wiki.ldraw.org/wiki/Category:Terms
+
+----
+
 ## REFERENCES
 
 > NOTE: Reference links unsorted! Some links could be broken!
 
 Reference links listed on [AWESOME-LDraw wiki](https://github.com/Symbian9/AWESOME-LDraw/wiki)
 
-***
+----
 
 > **Fair Play**
 >
