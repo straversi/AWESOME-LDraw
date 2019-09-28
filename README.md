@@ -322,7 +322,7 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - Sources:
   - License: `GPL 2.0`
 
-- ***lxf2ldr*** — tool for converting LDD files (LXF models) to LDraw format.
+- ***lxf2ldr*** — tool for converting *LEGO Digital Designer* files (`.lxf`) to LDraw format.
   - Homepage: https://www.eurobricks.com/forum/index.php?/forums/topic/150480-announcing-lxf2ldr/
   - Sources: https://gitlab.com/sylvainls/lxf2ldr
   - License: `GPL 3.0+`
@@ -367,8 +367,7 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - Addons: ***Bitbeam*** (see above), *Bitbeam-lib* (see above), *LEGO.scad* (see above), *openBrick* (see above), *PELA Blocks* (see above)
 
 - ***POV-Ray*** — render engine useful for create realistic images from 3D models.
-  - Homepage: http://www.povray.org (+[guide for render LDraw](
-- https://www.eurobricks.com/forum/index.php?/forums/topic/65876-guide-rendering-ldraw-models-using-pov-ray/))
+  - Homepage: http://www.povray.org (+[guide for render LDraw](https://www.eurobricks.com/forum/index.php?/forums/topic/65876-guide-rendering-ldraw-models-using-pov-ray/))
   - Sources: https://github.com/POV-Ray/povray
   - License: `AGPL 3.0`
   - Addons: ***LGEO*** (see above), ***Anton Raves' Library*** (see above), [*LightsysVI*](http://www.ignorancia.org/en/index.php?page=Lightsys) (`lightsys4c.zip`)
