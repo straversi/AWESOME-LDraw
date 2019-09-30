@@ -21,9 +21,8 @@
   - [Non-LDraw Parts](#non-ldraw-parts)
 - [**RESOURCES**](#resources)
 - [**SOFTWARE**](#software)
-  - [**LDraw Software**](#ldraw-software)
-    - [**Apps for Novice users**](#apps-for-novice-users)
-    - [**Tools for Advanced users**](#tools-for-advanced-users)
+  - [**Apps for Novice LDraw users**](#apps-for-novice-users)
+  - [**Tools for Advanced LDraw users**](#tools-for-advanced-users)
   - [Other Software](#other-software)
 - [**TUTORIALS**](#tutorials)
 - [**Project «Datsville»**](#project-datsville)
@@ -264,14 +263,12 @@ There are many bricks models created in different file formats.
 
 ### SOFTWARE
 
-#### LDraw Software
-
 There are official *LDraw* software tools and unofficial *LDraw*-compatible software.
 
 - http://www.ldraw.org/help/getting-started.html
 - http://www.ldraw.org/downloads-2/third-party-software.html
 
-##### Apps for Novice users
+#### Apps for Novice LDraw users
 
 - ***LeoCAD*** — simple 3D moddeler for creating virtual models using ready to use LDraw parts.
   - Homepage: http://leocad.org
@@ -295,7 +292,7 @@ There are official *LDraw* software tools and unofficial *LDraw*-compatible soft
   - Sources: https://github.com/nathaneltitane/ldraw/
   - License:
 
-##### Tools for Advanced users
+#### Tools for Advanced LDraw users
 
 Next tools would be useful for creating own *LDraw parts* (*authoring*), convert *LDraw files*, etc.:
 
