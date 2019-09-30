@@ -20,8 +20,10 @@
   - [**LDraw Other Parts**](#ldraw-other-parts)
   - [Non-LDraw Parts](#non-ldraw-parts)
 - [**RESOURCES**](#resources)
-- [**APPS & SOFTWARE TOOLS**](#apps-software-tools)
+- [**SOFTWARE**](#software)
   - [**LDraw Software**](#ldraw-software)
+    - [**Apps for Novice users**](#apps-for-novice-users)
+    - [**Tools for Advanced users**](#tools-for-advanced-users)
   - [Other Software](#other-software)
 - [**TUTORIALS**](#tutorials)
 - [**Project «Datsville»**](#project-datsville)
@@ -242,6 +244,11 @@ There are many bricks models created in different file formats.
 
 ### RESOURCES
 
+- ***digital-bricks' LDraw -> Not in LDraw*** — parts tracker that compare *LDD* bricks database with *LDraw Parts Libray* & provide official *LDD* bricks (raw 3D models) in *LDraw* format.
+  - Homepage: http://www.digital-bricks.de/en/index.php?site=nil
+  - API: 
+  - Pages: ***digital-bricks' lxf to ldr konverter*** (see below)
+
 - ***LEGO Database Download (Rebrickable)*** — Parts/Sets/Colors and Inventories of every official *LEGO®* set available for download as csv files here. These files are automatically generated at the start of each month.
   - Homepage: https://rebrickable.com/downloads/
   - API: https://rebrickable.com/api/
@@ -255,7 +262,7 @@ There are many bricks models created in different file formats.
 
 ----
 
-### APPS & SOFTWARE TOOLS
+### SOFTWARE
 
 #### LDraw Software
 
@@ -264,33 +271,35 @@ There are official *LDraw* software tools and unofficial *LDraw*-compatible soft
 - http://www.ldraw.org/help/getting-started.html
 - http://www.ldraw.org/downloads-2/third-party-software.html
 
-For **beginners** recommended tools are:
+##### Apps for Novice users
 
 - ***LeoCAD*** — simple 3D moddeler for creating virtual models using ready to use LDraw parts.
   - Homepage: http://leocad.org
   - Sources: http://github.com/leozide/leocad
   - License: `GPL 2.0`
+  - Plugins: ***POV-Ray*** + ***LGEO***
 
-- ***LDView*** — *Travis Cobb*'s real-time 3D viewer for displaying *LDraw models*.
+- ***LDView*** — real-time 3D viewer for displaying *LDraw models*.
   - Homepage: https://tcobbs.github.io/ldview/
   - Sources: https://github.com/tcobbs/ldview
   - License: `GPL 2.0`
 
-- ***Lpub3D*** — an *LDraw™* editor for *LEGO®* style digital building instructions. 
+- ***Lpub3D*** — an *LDraw* editor for *LEGO®* style digital building instructions. 
   - Homepage: https://trevorsandy.github.io/lpub3d/
   - Sources: https://github.com/trevorsandy/lpub3d
   - License: `GPL 2.0`
+  - Plugins: ***LeoCAD***, ***LDView***, ***POV-Ray*** + ***LGEO***
 
 - ***L2CU*** — LDraw Linux Command line Utilities.
   - Homepage: https://legolinux.com/ldraw-on-linux/
   - Sources: https://github.com/nathaneltitane/ldraw/
   - License:
 
-> NOTE: *LeoCAD* and *Lpub3D* tools could use *LGEO* parts for render *LDraw models* using *PovRay* render engine.
+##### Tools for Advanced users
 
-For **advanced users** there are next tools for create own *LDraw parts* (*authoring*), convert *LDraw files*, etc.:
+Next tools would be useful for creating own *LDraw parts* (*authoring*), convert *LDraw files*, etc.:
 
-- ***MLCad.ini*** — parts list for *MLCad* and *LeoCAD* minifigure generator.
+- ***MLCad.ini*** — minifig parts list for *MLCad* and *LeoCAD* minifigure generator.
   - Homepage: http://www.holly-wood.it/mlcad/mlcad_ini-en.html (+ [article](http://www.holly-wood.it/mlcad/customizing-en.html))
   - Sources: [MLCad_ini_2018-02.zip](http://www.holly-wood.it/files/mlcad/MLCad_ini_2018-02.zip)
   - License:
@@ -378,7 +387,7 @@ For **advanced users** there are next tools for create own *LDraw parts* (*autho
   - License: `GPL 2.0`
   - Addons: ***Bitbeam*** (see above), *Bitbeam-lib* (see above), *LEGO.scad* (see above), *openBrick* (see above), *PELA Blocks* (see above)
 
-- ***POV-Ray*** — render engine useful for create realistic images from 3D models.
+- ***POV-Ray*** — render engine useful for create realistic images from 3D models (compatible with *LeoCAD*, *LPub3D*, *Blender*).
   - Homepage: http://www.povray.org (+[guide for render LDraw](https://www.eurobricks.com/forum/index.php?/forums/topic/65876-guide-rendering-ldraw-models-using-pov-ray/))
   - Sources: https://github.com/POV-Ray/povray
   - License: `AGPL 3.0`
