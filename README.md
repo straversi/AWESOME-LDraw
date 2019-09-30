@@ -93,6 +93,12 @@
   - Repository/Tracker: http://www.holly-wood.it/
   - License:
 
+- ***Hubelino*** — LDraw compatible parts that are created by Hubelino (useful for creating different Maze Ball Machine).
+  - Homepage: http://www.digital-bricks.de/en/index.php?site=hub
+  - Package(s): [hubelino.zip](http://www.digital-bricks.de/download/hubelino.zip)
+  - Repository/Tracker: 
+  - License:
+
 - ***L-Gauge***
   - Homepage: http://l-gauge.org/wiki/index.php/CAD_Tools (+ [post on flickr](http://www.flickr.com/photos/michaelgale/36767493863))
   - Package(s): [BricktracksCurvesRev1.0.zip](http://l-gauge.org/downloads/BricktracksCurvesRev1.0.zip)
@@ -239,11 +245,13 @@ There are many bricks models created in different file formats.
 - ***LEGO Database Download (Rebrickable)*** — Parts/Sets/Colors and Inventories of every official *LEGO®* set available for download as csv files here. These files are automatically generated at the start of each month.
   - Homepage: https://rebrickable.com/downloads/
   - API: https://rebrickable.com/api/
+
 - ***Philo's LDraw Utilities***
   - Homepage: http://philohome.com/
   - Pages: [LDraw](http://philohome.com/ldraw.htm), [MNDSTORMS' & Technic](http://philohome.com/mindstorms.htm), [EV3 / NXT](http://philohome.com/nxt.htm), [VEX IQ](http://philohome.com/vex.htm), [Sensors](http://philohome.com/sensors.htm)
+
 - ***J.C. Tchang's website*** (in French)
-  - http://jc-tchang.philohome.com/index.htm
+  - Homepage: http://jc-tchang.philohome.com/index.htm
 
 ----
 
@@ -256,7 +264,7 @@ There are official *LDraw* software tools and unofficial *LDraw*-compatible soft
 - http://www.ldraw.org/help/getting-started.html
 - http://www.ldraw.org/downloads-2/third-party-software.html
 
-For beginners recommended tools are:
+For **beginners** recommended tools are:
 
 - ***LeoCAD*** — simple 3D moddeler for creating virtual models using ready to use LDraw parts.
   - Homepage: http://leocad.org
@@ -280,7 +288,7 @@ For beginners recommended tools are:
 
 > NOTE: *LeoCAD* and *Lpub3D* tools could use *LGEO* parts for render *LDraw models* using *PovRay* render engine.
 
-Advanced users would like to use next tools for create own *LDraw parts* (*authoring*), convert *LDraw files*, etc.:
+For **advanced users** there are next tools for create own *LDraw parts* (*authoring*), convert *LDraw files*, etc.:
 
 - ***MLCad.ini*** — parts list for *MLCad* and *LeoCAD* minifigure generator.
   - Homepage: http://www.holly-wood.it/mlcad/mlcad_ini-en.html (+ [article](http://www.holly-wood.it/mlcad/customizing-en.html))
@@ -327,6 +335,10 @@ Advanced users would like to use next tools for create own *LDraw parts* (*autho
   - Sources: https://gitlab.com/sylvainls/lxf2ldr
   - License: `GPL 3.0+`
   - Addons: [ldraw.xml](http://slswww.free.fr/ldraw.xml) (+[discussion](https://www.eurobricks.com/forum/index.php?/forums/topic/137193-more-up-to-date-ldrawxml-lddldraw-conversion-file/)), [ldraw.html](https://gitlab.com/sylvainls/lxf2ldr.html) (+[discussion](https://www.eurobricks.com/forum/index.php?/forums/topic/169815-lxf2ldrhtml-the-even-more-awesome-lxf2ldr/))
+
+- ***digital-bricks' lxf to ldr konverter*** — converter that transferes model files from the Lego Digital Designer (LDD) to the open LDraw standard.
+  - Homepage: http://www.digital-bricks.de/en/index.php
+  - Pages: [Converter](http://www.digital-bricks.de/en/index.php?site=konv-uersicht), [Overview](http://www.digital-bricks.de/en/index.php?site=konv-uersicht), [Download](http://www.digital-bricks.de/en/index.php?site=konv-download), [How-To](http://www.digital-bricks.de/en/index.php?site=konv-how-to)
 
 #### Other Software
 
