@@ -13,6 +13,7 @@
 
 ## TABLE OF CONTENTS
 
+- [**TERMINOLOGY**](#terminology)
 - [**FILE FORMAT SPECIFICATION**](#file-format-specification)
 - [**COLORS**](#colours)
 - [**BRICKS & BLOCKS**](#bricks-blocks)
@@ -24,11 +25,16 @@
   - [**Apps for Novice LDraw users**](#apps-for-novice-ldraw-users)
   - [**Tools for Advanced LDraw users**](#tools-for-advanced-ldraw-users)
   - [Other Software](#other-software)
-- [**TUTORIALS**](#tutorials)
-- [**Project «Datsville»**](#project-datsville)
 - [**«Micropolis» Standard**](#micropolis-standard)
-- [**TERMINOLOGY**](#terminology)
-- [**REFERENCES**](#references)
+- [**Project «Datsville»**](#project-datsville)
+- [TUTORIALS](#tutorials)
+- [REFERENCES](#references)
+
+----
+
+## TERMINOLOGY
+
+- https://wiki.ldraw.org/wiki/Category:Terms
 
 ----
 
@@ -403,17 +409,19 @@ Next tools would be useful for creating own *LDraw parts* (*authoring*), convert
 
 ----
 
-### TUTORIALS
+## «Micropolis» Standard
 
-- http://www.ldraw.org/article/58.html
-  - http://www.ldraw.org/article/58.html#modeling
-  - http://www.ldraw.org/article/58.html#rendering
-  - http://www.ldraw.org/article/58.html#building_instuctions
-  - http://www.ldraw.org/article/58.html#parts_authoring
-- https://wiki.ldraw.org/wiki/Tutorials
-- http://www.ldraw.org/omr_compliance
-- http://www.texbrick.com/articles/index.html
-- http://www.bigbenbricks.com/applications.html
+***«Micropolis»*** — standard to allow individual LEGO® & LDraw builders to build modules to add to a micro scale city in a group build. On August 17, 2008 *Max Braun* brought what would be the very first *Micropolis module* to a *«TwinLUG»* meeting.
+
+- Homepage: http://twinlug.com/micropolis-micro-city-standard/
+- Package(s):
+- Repository/Tracker:
+- License:
+
+*«Micropolis»* discussions & resources:
+
+- https://github.com/Symbian9/Micropolis-Standard-LDraw
+- http://www.virtualmicropolis.org
 
 ----
 
@@ -434,25 +442,17 @@ Next tools would be useful for creating own *LDraw parts* (*authoring*), convert
 
 ----
 
-## «Micropolis» Standard
+### TUTORIALS
 
-***«Micropolis»*** — standard to allow individual LEGO® & LDraw builders to build modules to add to a micro scale city in a group build. On August 17, 2008 *Max Braun* brought what would be the very first *Micropolis module* to a *«TwinLUG»* meeting.
-
-- Homepage: http://twinlug.com/micropolis-micro-city-standard/
-- Package(s):
-- Repository/Tracker:
-- License:
-
-*«Micropolis»* discussions & resources:
-
-- https://github.com/Symbian9/Micropolis-Standard-LDraw
-- http://www.virtualmicropolis.org
-
-----
-
-## TERMINOLOGY
-
-- https://wiki.ldraw.org/wiki/Category:Terms
+- http://www.ldraw.org/article/58.html
+  - http://www.ldraw.org/article/58.html#modeling
+  - http://www.ldraw.org/article/58.html#rendering
+  - http://www.ldraw.org/article/58.html#building_instuctions
+  - http://www.ldraw.org/article/58.html#parts_authoring
+- https://wiki.ldraw.org/wiki/Tutorials
+- http://www.ldraw.org/omr_compliance
+- http://www.texbrick.com/articles/index.html
+- http://www.bigbenbricks.com/applications.html
 
 ----
 
