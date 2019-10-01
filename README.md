@@ -317,6 +317,11 @@ Next tools would be useful for creating own *LDraw parts* (*authoring*), convert
   - Sources: https://github.com/deeice/lsynth
   - License:
 
+- ***pyldraw*** — *Python Package* that provides facilities to allow users to create *LDraw* scene descriptions using the *Python* programming language.
+  - Homepage: https://pypi.org/project/pyldraw/
+  - Sources: https://anonscm.debian.org/hg/python-ldraw/main
+  - License: `GPL 2.0`
+
 - ***LDDesignPad*** — powerful text editor for editing *LDraw files*.
   - Homepage: http://lddp.sourceforge.net
   - Sources: http://sourceforge.net/projects/lddp ([GitHub mirror](https://github.com/billthefish/LDrawDesignPad)
