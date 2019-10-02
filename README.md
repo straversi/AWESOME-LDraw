@@ -77,6 +77,12 @@
   - Repository/Tracker:
   - License:
 
+- ***BTD Bearing Axle Parts*** — *«Brick Train Depot»*'s bearing assembly LDraw parts for train bogie.
+  - Homepage: https://bricktraindepot.com/resources
+  - Package(s): https://bricktraindepot.com/s/BTD-Bearing-Axle-Parts.zip
+  - Repository/Tracker:
+  - License:
+
 - ***Heroica***
   - Homepage: http://krewanetadesu.com/pages/lego/heroica/parts.html
   - Package(s): [heroica-parts.zip](http://krewanetadesu.com/downloads/heroica-parts.zip)
@@ -146,6 +152,12 @@
   - Homepage:
   - Package(s): [726-rotacasterLdraw.zip](https://modernroboticsinc.com/download/ldraw-parts-pack-for-rotacaster-wheels/?wpdmdl=3415)
   - Repository/Tracker: https://modernroboticsinc.com/downloads/?wpdmc=sample-model-building-instructions-and-ldraw-parts
+  - License:
+
+- ***Shupp's XXL Driver Parts*** — train wheels designed by EuroBricks user *'Unfinished_projects'*. 
+  - Homepage: https://bricktraindepot.com/resources
+  - Package(s): [Shupps-XXL-Driver-Parts.zip](https://bricktraindepot.com/s/Shupps-XXL-Driver-Parts.zip)
+  - Repository/Tracker:
   - License:
 
 - ***Tente*** — Jasolo's *TENTE®* parts.
