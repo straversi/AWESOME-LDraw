@@ -389,6 +389,12 @@ Next tools would be useful for creating own *LDraw parts* (*authoring*), convert
   - Sources: https://github.com/Jellofishi/lego_instructions
   - License: `GPL 3.0`
 
+- ***Modo (MODO, modo)***  — polygon and subdivision surface modeling, sculpting, 3D painting, animation and rendering software.
+  - Homepage: http://www.foundry.com/products/modo
+  - Sources:
+  - License: `Proprietary`
+  - Addons: [*fmtldr*](https://gumroad.com/l/AtpzFF/lego) ([details](https://www.battlefleet.net/fmtldr))
+
 - ***OpenSCAD*** — programmers solid 3D CAD modeller.
   - Homepage: http://www.openscad.org
   - Sources: https://github.com/openscad/openscad
