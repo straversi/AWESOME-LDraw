@@ -249,6 +249,8 @@ There are many bricks models created in different file formats.
 
 ### RESOURCES
 
+- ***Ask anything related to Bricks on Stackexchange!*** — https://bricks.stackexchange.com/
+
 - ***digital-bricks' LDraw -> Not in LDraw*** — parts tracker that compare *LDD* bricks database with *LDraw Parts Libray* & provide official *LDD* bricks (raw 3D models) in *LDraw* format.
   - Homepage: http://www.digital-bricks.de/en/index.php?site=nil
   - API: 
@@ -464,7 +466,7 @@ Next tools would be useful for creating own *LDraw parts* (*authoring*), convert
 - http://www.ldraw.org/omr_compliance
 - http://www.texbrick.com/articles/index.html
 - http://www.bigbenbricks.com/applications.html
-
+- https://bricks.stackexchange.com/questions/9089/how-to-import-rebrickable-com-parts-lists-to-ldraw
 ----
 
 ## REFERENCES
