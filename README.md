@@ -79,12 +79,12 @@
 
 - ***BTD Bearing Axle Parts*** — *«Brick Train Depot»*'s bearing assembly LDraw parts for train bogie.
   - Homepage: https://bricktraindepot.com/resources
-  - Package(s): https://bricktraindepot.com/s/BTD-Bearing-Axle-Parts.zip
+  - Package(s): [BTD-Bearing-Axle-Parts.zip](https://bricktraindepot.com/s/BTD-Bearing-Axle-Parts.zip)
   - Repository/Tracker:
   - License:
 
 - ***Heroica***
-  - Homepage: http://krewanetadesu.com/pages/lego/heroica/parts.html
+  - Homepage: https://korewanetadesu.com/pages/lego/heroica/parts.html
   - Package(s): [heroica-parts.zip](http://krewanetadesu.com/downloads/heroica-parts.zip)
   - Repository/Tracker:
   - License:
@@ -294,7 +294,7 @@ There are official *LDraw* software tools and unofficial *LDraw*-compatible soft
   - Homepage: http://leocad.org
   - Sources: http://github.com/leozide/leocad
   - License: `GPL 2.0`
-  - Plugins: ***POV-Ray*** + ***LGEO***
+  - Plugins: ***MLCad.ini***, ***POV-Ray***, ***LGEO***
 
 - ***LDView*** — real-time 3D viewer for displaying *LDraw models*.
   - Homepage: https://tcobbs.github.io/ldview/
@@ -302,15 +302,10 @@ There are official *LDraw* software tools and unofficial *LDraw*-compatible soft
   - License: `GPL 2.0`
 
 - ***Lpub3D*** — an *LDraw* editor for *LEGO®* style digital building instructions. 
-  - Homepage: https://trevorsandy.github.io/lpub3d/
+  - Homepage: https://trevorsandy.github.io/lpub3d/ (+[tutorial](https://sites.google.com/view/workingwithlpub3d/))
   - Sources: https://github.com/trevorsandy/lpub3d
   - License: `GPL 2.0`
   - Plugins: ***LeoCAD***, ***LDView***, ***POV-Ray*** + ***LGEO***
-
-- ***L2CU*** — LDraw Linux Command line Utilities.
-  - Homepage: https://legolinux.com/ldraw-on-linux/
-  - Sources: https://github.com/nathaneltitane/ldraw/
-  - License:
 
 #### Tools for Advanced LDraw users
 
@@ -319,6 +314,11 @@ Next tools would be useful for creating own *LDraw parts* (*authoring*), convert
 - ***MLCad.ini*** — minifig parts list for *MLCad* and *LeoCAD* minifigure generator.
   - Homepage: http://www.holly-wood.it/mlcad/mlcad_ini-en.html (+ [article](http://www.holly-wood.it/mlcad/customizing-en.html))
   - Sources: [MLCad_ini_2018-02.zip](http://www.holly-wood.it/files/mlcad/MLCad_ini_2018-02.zip)
+  - License:
+
+- ***L2CU*** — LDraw Linux Command line Utilities.
+  - Homepage: https://legolinux.com/ldraw-on-linux/
+  - Sources: https://github.com/nathaneltitane/ldraw/
   - License:
 
 - ***MPDCenter*** — tool for maintain and check *MPD files* for [*OMR conformity*](http://www.ldraw.org/article/593.html).
