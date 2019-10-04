@@ -85,7 +85,7 @@
 
 - ***Heroica***
   - Homepage: https://korewanetadesu.com/pages/lego/heroica/parts.html
-  - Package(s): [heroica-parts.zip](http://krewanetadesu.com/downloads/heroica-parts.zip)
+  - Package(s): [heroica-parts.zip](http://korewanetadesu.com/downloads/heroica-parts.zip)
   - Repository/Tracker:
   - License:
 
