@@ -95,7 +95,8 @@
   - Repository/Tracker: https://modernroboticsinc.com/downloads/
   - License:
 
-- ***Hirst Arts Castlemolds***
+- ***Hirst Arts Castlemolds*** — *Hirst Arts* blocks that can be used in LDraw related programs.
+  - Homepage: https://www.dungeoncrawlers.com/CastleMoldsCad/
   - Package(s): [p.zip](https://www.dungeoncrawlers.com/CastleMoldsCad/assets/parts/p.zip) + [parts.zip](https://www.dungeoncrawlers.com/CastleMoldsCad/assets/parts/parts.zip)
   - Repository/Tracker: https://www.dungeoncrawlers.com/CastleMoldsCad/parts.php
   - License:
@@ -294,18 +295,18 @@ There are official *LDraw* software tools and unofficial *LDraw*-compatible soft
   - Homepage: http://leocad.org
   - Sources: http://github.com/leozide/leocad
   - License: `GPL 2.0`
-  - Plugins: ***MLCad.ini***, ***POV-Ray***, ***LGEO***
+  - Plugins: ***MLCad.ini***, ***POV-Ray*** + ***LGEO***
 
 - ***LDView*** — real-time 3D viewer for displaying *LDraw models*.
   - Homepage: https://tcobbs.github.io/ldview/
   - Sources: https://github.com/tcobbs/ldview
   - License: `GPL 2.0`
 
-- ***Lpub3D*** — an *LDraw* editor for *LEGO®* style digital building instructions. 
+- ***Lpub3D*** — an all-in-one *LDraw* editor for *LEGO®* style digital building instructions, based on *LeoCAD*, *LDView* and few other software tools.
   - Homepage: https://trevorsandy.github.io/lpub3d/ (+[tutorial](https://sites.google.com/view/workingwithlpub3d/))
   - Sources: https://github.com/trevorsandy/lpub3d
   - License: `GPL 2.0`
-  - Plugins: ***LeoCAD***, ***LDView***, ***POV-Ray*** + ***LGEO***
+  - Plugins: ***MLCad.ini***, ***POV-Ray*** + ***LGEO***
 
 #### Tools for Advanced LDraw users
 
