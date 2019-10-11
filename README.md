@@ -352,9 +352,24 @@ Next tools would be useful for creating own *LDraw parts* (*authoring*), convert
   - Sources: http://hassings.dk/l3/download.html
   - License:
 
+- ***buildinginstructions.js*** — JavaScript-render of *LEGO®* building instructions in the browser using `three.js` and *LDraw Parts Library*.
+  - Homepage: https://brickhub.org/
+  - Sources: https://github.com/LasseD/buildinginstructions.js
+  - License: `Public Domain`
+
+- ***PatternFolder*** — JavaScript-tool for fold *LDraw* patterns onto parts like applying stickers to *LEGO®* models.
+  - Homepage: c-mt.dk/software/pf (+[tutorial on YouTube](https://www.youtube.com/watch?v=fwN1MLaxats])
+  - Sources: https://github.com/LasseD/PatternFolder
+  - License: `Unlicense`
+
+- ***svg2ldraw*** — JavaScript-converter for SVG vector image to LDraw patterns for prints and stickers .
+  - Homepage: https://c-mt.dk/software/svg2ldraw/
+  - Sources: https://github.com/LasseD/svg2ldraw
+  - License: `Unlicense`
+
 - ***stl2dat-cp*** — cross platform *STL (Mesh)* to *DAT (LDraw part)* converter, forked from *stl2dat*.
   - Homepage: http://marc.klein.free.fr/lego/stl2dat/stl2dat.html
-  - Sources: https://github.com/ondratu/stl2dat-cp (original stl2dat](https://sourceforge.net/projects/stl2dat/))
+  - Sources: https://github.com/ondratu/stl2dat-cp ([original stl2dat](https://sourceforge.net/projects/stl2dat/))
   - License: `CC BY-SA 3.0`
 
 - ***txt2dat*** — tool for creating text-based patterns for *LDraw parts*.
