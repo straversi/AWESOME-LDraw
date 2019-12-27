@@ -425,6 +425,11 @@ Next tools would be useful for creating own *LDraw parts* (*authoring*), convert
   - License: `Proprietary`
   - Addons: [*fmtldr*](https://gumroad.com/l/AtpzFF/lego) ([details](https://www.battlefleet.net/fmtldr))
 
+- ***OpenSDraw*** - a CAD program similar to *OpenSCAD* but for *LEGO®* (a programming language and some related utilities for creating *LDraw* format files).
+  - Homepage: http://www.openscad.org (+[docs](http://opensdraw.readthedocs.org/en/latest/))
+  - Sources: https://github.com/HazenBabcock/opensdraw ([mirror fork](https://github.com/Symbian9/opensdraw))
+  - License: `MIT`
+
 - ***OpenSCAD*** — programmers solid 3D CAD modeller.
   - Homepage: http://www.openscad.org
   - Sources: https://github.com/openscad/openscad
