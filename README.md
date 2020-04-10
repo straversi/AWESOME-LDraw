@@ -71,6 +71,12 @@
 
 #### LDraw Other Parts
 
+- ***Anker bricks*** — unofficial LDraw compatible library of [*Anker-Steinbaukasten*](https://de.wikipedia.org/wiki/Anker-Steinbaukasten) toy blocks (`en.` [*Anchor Stone Blocks*](https://en.wikipedia.org/wiki/Anchor_Stone_Blocks)).
+  - Homepage:
+  - Package(s): [anker-stones-master.zip](https://github.com/mortegro/anker-stones/archive/master.zip)
+  - Repository/Tracker: https://github.com/mortegro/anker-stones
+  - License:
+
 - ***Big Ben Bricks*** — unofficial LDraw parts for *Big Ben Bricks* train wheels (BBB Wheels).
   - Homepage: http://www.bigbenbricks.com/ldraw.html (+ [page2](http://www.bigbenbricks.com/ldraw/ldraw.html), [article1](http://www.br-eng.info/words/2005/08/30/bbb-wheels/))
   - Package(s):
