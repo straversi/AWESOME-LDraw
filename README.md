@@ -404,7 +404,7 @@ Next tools would be useful for creating own *LDraw parts* (*authoring*), convert
   - Homepage: http://blender.org
   - Sources: https://git.blender.org
   - License: `GPL 3.0`
-  - Addons: [Blender LDraw Render](https://github.com/trevorsandy/blenderldrawrender) (LPub3D Render LDraw Models with Blender; based on [*ImportLDraw*](http://github.com/TobyLobster/ImportLDraw)), [*LDR-Importer*](http://github.com/le717/LDR-Importer)
+  - Addons: [Blender LDraw Render](https://github.com/trevorsandy/blenderldrawrender) (LPub3D render submodule; based on [*ImportLDraw*](http://github.com/TobyLobster/ImportLDraw)); [*LDR-Importer*](http://github.com/le717/LDR-Importer)
 
 - ***BlueBricks*** — app for designing *LEGO Train* layouts. It has an *LDraw* input and output mode, and can produce either `.ldr` or `.mpd` files. But since *BlueBrick* does not directly use the *LDraw Parts Library*. 
   - Homepage: http://bluebrick.lswproject.com/ ([wiki](https://wiki.ldraw.org/wiki/BlueBrick))
