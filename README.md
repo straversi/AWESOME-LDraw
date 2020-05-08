@@ -312,7 +312,7 @@ There are official *LDraw* software tools and unofficial *LDraw*-compatible soft
   - Homepage: http://leocad.org
   - Sources: http://github.com/leozide/leocad
   - License: `GPL 2.0`
-  - Plugins: ***MLCad.ini***, ***POV-Ray*** + ***LGEO***
+  - Plugins: ***MLCad.ini***; ***POV-Ray*** + ***LGEO***
 
 - ***LDView*** — real-time 3D viewer for displaying *LDraw models*.
   - Homepage: https://tcobbs.github.io/ldview/
@@ -323,7 +323,7 @@ There are official *LDraw* software tools and unofficial *LDraw*-compatible soft
   - Homepage: https://trevorsandy.github.io/lpub3d/ (+[tutorial](https://sites.google.com/view/workingwithlpub3d/))
   - Sources: https://github.com/trevorsandy/lpub3d
   - License: `GPL 2.0`
-  - Plugins: ***MLCad.ini***, ***POV-Ray*** + ***LGEO***
+  - Plugins: ***MLCad.ini***; ***Blender*** + ***Blender LDraw Render***; ***POV-Ray*** + ***LGEO*** 
 
 #### Tools for Advanced LDraw users
 
