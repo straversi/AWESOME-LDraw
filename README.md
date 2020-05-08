@@ -323,7 +323,7 @@ Next tools would be useful for creating own *LDraw parts* (*authoring*), convert
   - Sources: [MLCad_ini_2018-02.zip](http://www.holly-wood.it/files/mlcad/MLCad_ini_2018-02.zip)
   - License:
 
-- ***L2CU*** — LDraw Linux Command line Utilities.
+- ***L²CU*** — LDraw Linux Command line Utilities.
   - Homepage: https://legolinux.com/ldraw-on-linux/
   - Sources: https://github.com/nathaneltitane/ldraw/
   - License:
