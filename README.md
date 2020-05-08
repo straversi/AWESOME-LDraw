@@ -22,6 +22,7 @@
   - [Non-LDraw Parts](#non-ldraw-parts)
 - [**RESOURCES**](#resources)
 - [**SOFTWARE**](#software)
+  - [**LDraw AIOI**](#ldraw-aioi) (LDraw All-In-One-Installer)
   - [**Apps for Novice LDraw users**](#apps-for-novice-ldraw-users)
   - [**Tools for Advanced LDraw users**](#tools-for-advanced-ldraw-users)
   - [Other Software](#other-software)
@@ -295,7 +296,17 @@ There are official *LDraw* software tools and unofficial *LDraw*-compatible soft
 - http://www.ldraw.org/help/getting-started.html
 - http://www.ldraw.org/downloads-2/third-party-software.html
 
+#### LDraw AIOI
+
+***LDraw AIOI*** (*LDraw All-In-One-Installer*) — quick and easy way to install LDraw Parts Library & common tools on your PC.
+
+- ***LDraw AIOI for Windows***: https://www.ldraw.org/article/104.html
+  - Tutorial: http://www.holly-wood.it/ldraw/aioi1-en.html
+- ***LDraw AIOI for Linux***: https://github.com/Achyut-BK/LDRaw-AIOI-Linux
+
 #### Apps for Novice LDraw users
+
+> **NOTE:** All listed apps for novice LDraw users are cross-platform!
 
 - ***LeoCAD*** — simple 3D moddeler for creating virtual models using ready to use LDraw parts.
   - Homepage: http://leocad.org
@@ -340,7 +351,7 @@ Next tools would be useful for creating own *LDraw parts* (*authoring*), convert
 
 - ***pyldraw*** — *Python Package* that provides facilities to allow users to create *LDraw* scene descriptions using the *Python* programming language.
   - Homepage: https://pypi.org/project/pyldraw/
-  - Sources: https://anonscm.debian.org/hg/python-ldraw/main
+  - Sources: https://github.com/rienafairefr/python-ldraw ([mirror](https://anonscm.debian.org/hg/python-ldraw/main))
   - License: `GPL 2.0`
 
 - ***LDDesignPad*** — powerful text editor for editing *LDraw files*.
@@ -382,6 +393,11 @@ Next tools would be useful for creating own *LDraw parts* (*authoring*), convert
   - Homepage: http://www.br-eng.info/my-lego-roscomenu-29/my-ldraw-roscomenu-45/50-txt2dat (+ [arhived](http://web.archive.org/web/20180129165503/http://www.br-eng.info/my-lego-roscomenu-29/my-ldraw-roscomenu-45/50-txt2dat), [article1](http://www.br-eng.info/words/2009/05/16/new-version-of-txt2dat-2/), [wiki](http://wiki.ldraw.org/wiki/txt2dat), [discussion](https://forums.ldraw.org/thread-23185.html))
   - Sources:
   - License: `GPL 2.0`
+
+- ***ldraw2stl*** (***dat2stl***) — Convert LEGO LDraw files into STL.
+  - Homepage:
+  - Sources: https://github.com/kristov/ldraw2stl
+  - License:
 
 - ***lxf2ldr*** — tool for converting *LEGO Digital Designer* files (`.lxf`) to LDraw format.
   - Homepage: https://www.eurobricks.com/forum/index.php?/forums/topic/150480-announcing-lxf2ldr/
