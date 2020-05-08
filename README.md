@@ -392,6 +392,11 @@ Next tools would be useful for creating own *LDraw parts* (*authoring*), convert
 - ***digital-bricks' lxf to ldr konverter*** — converter that transferes model files from the Lego Digital Designer (LDD) to the open LDraw standard.
   - Homepage: http://www.digital-bricks.de/en/index.php
   - Pages: [Converter](http://www.digital-bricks.de/en/index.php?site=konv-uersicht), [Overview](http://www.digital-bricks.de/en/index.php?site=konv-uersicht), [Download](http://www.digital-bricks.de/en/index.php?site=konv-download), [How-To](http://www.digital-bricks.de/en/index.php?site=konv-how-to)
+  
+- ***\<brick-viewer\>*** - An HTML custom element for displaying mpds.
+  - Homepage:
+  - Sources: https://github.com/PolymerLabs/brick-viewer
+  - License: `BSD-3-Clause`
 
 #### Other Software
 
