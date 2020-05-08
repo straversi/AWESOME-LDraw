@@ -298,7 +298,7 @@ There are official *LDraw* software tools and unofficial *LDraw*-compatible soft
 
 #### LDraw AIOI
 
-***LDraw AIOI*** (*LDraw All-In-One-Installer*) — quick and easy way to install LDraw Parts Library & common tools on your PC.
+> *LDraw AIOI* (*LDraw All-In-One-Installer*) — quick and easy way to install LDraw Parts Library & common tools on your PC.
 
 - ***LDraw AIOI for Windows***: https://www.ldraw.org/article/104.html
   - Tutorial: http://www.holly-wood.it/ldraw/aioi1-en.html
