@@ -58,15 +58,15 @@
 
 #### LDraw Official and Unofficial Parts
 
-- ***LDraw Official*** — *LEGO®* parts maintained by [LDraw.org](http://www.ldraw.org) (latest stable release).
+- ***LDraw Official*** — *LEGO®* parts maintained by [LDraw.org](http://www.ldraw.org).
   - Homepage: http://www.ldraw.org/article/13.html
-  - Package(s): [complete.zip](http://www.ldraw.org/library/updates/complete.zip)
+  - Package(s): [complete.zip](http://www.ldraw.org/library/updates/complete.zip) (latest stable release)
   - Repository/Tracker: http://www.ldraw.org/library/tracker/
   - License: `CCAL 2.0`
 
-- ***LDraw Unofficial*** — unfinished (work-in-progress) *LEGO®* parts and *LEGO®*-compatible parts submitted by users to [LDraw.org](http://www.ldraw.org) (regular updated; EXPERIMENTAL!).
+- ***LDraw Unofficial*** — unfinished (work-in-progress) *LEGO®* parts and *LEGO®*-compatible parts submitted by users to [LDraw.org](http://www.ldraw.org).
   - Homepage: http://www.ldraw.org/article/14.html
-  - Package(s): [ldrawunf.zip](http://www.ldraw.org/library/unofficial/ldrawunf.zip)
+  - Package(s): [ldrawunf.zip](http://www.ldraw.org/library/unofficial/ldrawunf.zip) (regular updated; EXPERIMENTAL!)
   - Repository/Tracker: http://www.ldraw.org/library/tracker/
   - License: `CCAL 2.0`
 
@@ -331,7 +331,7 @@ Next tools would be useful for creating own *LDraw parts* (*authoring*), convert
 
 - ***MLCad.ini*** — minifig parts list for *MLCad* and *LeoCAD* minifigure generator.
   - Homepage: http://www.holly-wood.it/mlcad/mlcad_ini-en.html (+ [article](http://www.holly-wood.it/mlcad/customizing-en.html))
-  - Sources: [MLCad_ini_2018-02.zip](http://www.holly-wood.it/files/mlcad/MLCad_ini_2018-02.zip)
+  - Sources: [MLCad_ini_2018-03.zip](http://www.holly-wood.it/files/mlcad/MLCad_ini_2018-03.zip)
   - License:
 
 - ***L²CU*** — LDraw Linux Command line Utilities.
